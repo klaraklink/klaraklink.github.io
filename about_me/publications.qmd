@@ -1,0 +1,39 @@
+---
+title: "Publications"
+format: 
+  html:
+    code-fold: false
+    code-tools: false
+---
+
+## 2025
+
+**Friesová, K.**, Axmanová, I., Borovyk, D., Ćuk, M., Kopčan, B., Valachovič, M., Clark, A. T. & Chytrý, M. (2025). *Vegetation remains, specialist species fade: changes in Pannonian sand grasslands.* **Preslia** 97: 613–635.[![Static Badge](https://img.shields.io/badge/DOI-10.23855%2Fpreslia.2025.613-green)](https://doi.org/10.23855/preslia.2025.613) – Data and code: [![DOI](https://zenodo.org/badge/1017296233.svg)](https://doi.org/10.5281/zenodo.16258179)
+
+**Klinkovská, K.**, Sperandii M. G., Knollová, I., Danihelka, J., Hájek, M., Hájková, P., Hroudová, Z., Jiroušek, M., Lepš, J., Navrátilová, J., Peterka, T., Petřík, P., Prach, K., Řehounková, K., Rohel, J., Sobotka, V., Vávra, M., Bruelheide, H. & Chytrý, M. (2025). *Half a century of temperate non-forest vegetation changes: no net loss in species richness, but considerable shifts in taxonomic and functional composition.* **Global Change Biology** 31: e70030. [![Static Badge](https://img.shields.io/badge/DOI-10.1111%2Fgcb.70030-green)](https://doi.org/10.1111/gcb.70030) – Data and code: [![DOI](https://zenodo.org/badge/862873758.svg)](https://doi.org/10.5281/zenodo.14589270)
+
+## 2024
+
+**Klinkovská, K.**, Glaser, M., Danihelka, J., Kaplan, Z., Knollová, I., Novotný, P., Pyšek, P., Řezníčková, M., Wild, J. & Chytrý, M. (2024). *Dynamics of the Czech flora over the last 60 years: winners, losers and causes of changes.* **Biological Conservation** 292: 110502. [![Static Badge](https://img.shields.io/badge/DOI-10.1016%2Fj.biocon.2024.110502-green)](https://doi.org/10.1016/j.biocon.2024.110502) – Data and code: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10625478.svg)](https://zenodo.org/doi/10.5281/zenodo.10625478)
+
+Knollová, I., Chytrý, M., Bruelheide, H., Dullinger, S., Jandt, U., Bernhardt-Römermann, M., Biurrun, I., de Bello, F., Glaser,M., Hennekens, S., Jansen, F., Jiménez-Alfaro, B., Kadaš, D., Kaplan, E., **Klinkovská, K.**, Kuzemko, A., Lenzner, B., Pauli, H., Sperandii, M. G. … Essl, F. (2024). *ReSurveyEurope: a database of resurveyed vegetation plots in Europe.* **Journal of Vegetation Science** 35: e13235. [![Static Badge](https://img.shields.io/badge/DOI-10.1111%2Fjvs.13235-green)](https://doi.org/10.1111/jvs.13235)
+
+**Klinkovská, K.**, Sperandii, M. G., Trávníček, B. & Chytrý, M. (2024). *Significant decline in habitat specialists in semi-dry grasslands over four decades.* **Biodiversity and Conservation** 33: 161–178. [![Static Badge](https://img.shields.io/badge/DOI-10.1007%2Fs10531--023--02740--6-green)](https://doi.org/10.1007/s10531-023-02740-6) – Data and code: [![DOI](https://zenodo.org/badge/706733479.svg)](https://doi.org/10.5281/zenodo.10060598)
+
+## 2023
+
+Harásek, M., **Klinkovská, K.** & Chytrý, M. (2023). *Vegetation change in acidic dry grasslands in Moravia (Czech Republic) over three decades: Slow decrease in habitat quality after grazing cessation.* **Applied Vegetation Science** 26: e12726. [![Static Badge](https://img.shields.io/badge/DOI-10.1111%2Favsc.12726-green)](https://doi.org/10.1111/avsc.12726) – Data: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7699047.svg)](https://doi.org/10.5281/zenodo.7699047)
+
+**Klinkovská, K.** & Roleček, J. (2023). *Floristic classification of* Geranion sanguinei *in South Moravia (Czech Republic).* **Biologia** 79: 1113–1127. [![Static Badge](https://img.shields.io/badge/DOI-10.1007%2Fs11756--023--01464--w-green)](https://doi.org/10.1007/s11756-023-01464-w)
+
+**Klinkovská, K.**, Kučerová, A., Pustková, Š., Rohel, J., Slachová, K., Sobotka, V., Szokala, D., Danihelka, J., Kočí, M., Šmerdová, E. & Chytrý, M. (2023). *Subalpine vegetation changes in the East Sudetes (1973–2021): effects of abandonment, avalanches and conservation management.* **Applied Vegetation Science** 26: e12711. [![Static Badge](https://img.shields.io/badge/DOI-10.1111%2Favsc.12711-green)](https://doi.org/10.1111/avsc.12711) – Data: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7338814.svg)](https://doi.org/10.5281/zenodo.7338814)
+
+## 2022
+
+Chytrý, K., Prokešová, H., Duchoň, M., **Klinkovská, K.**, Novák, P., Chytrý, M. & Divíšek, J. (2022). *Ecotones in Central European forest-steppe: Edge effect occurs on hard rocks but not on loess.* **Journal of Vegetation Science** 33: e13149. [![Static Badge](https://img.shields.io/badge/DOI-10.1111%2Fjvs.13149-green)](https://doi.org/10.1111/jvs.13149) – Data: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4783984.svg)](https://doi.org/10.5281/zenodo.4783984)
+
+Danihelka, J., Chytrý, K., Harásek, M., Hubatka, P., **Klinkovská, K.**, Kratoš, F., Kučerová, A., Slachová, K., Szokala, D., Prokešová, H., Šmerdová, E., Večeřa, M. & Chytrý, M. (2022). *Halophytic flora and vegetation in southern Moravia and northern Lower Austria: past and present.* **Preslia** 94: 13-110. [![Static Badge](https://img.shields.io/badge/DOI-10.23855%2Fpreslia.2022.013-green)](https://doi.org/10.23855/preslia.2022.013) – Data: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4624798.svg)](https://doi.org/10.5281/zenodo.4624798)
+
+## 2020
+
+Roleček, J., **Klinkovská, K.** & Dřevojan, P. (2020). *Liliová hora u Lulče na Vyškovsku – významná lokalita teplomilné flóry a vegetace \[Liliová hora hill near Luleč (Vyškov district, Czech Republic) – remarkable site of thermophilous flora and vegetation\].* **Zprávy Vlastivědného muzea v Olomouci: Přírodní vědy** 319: 16-29.

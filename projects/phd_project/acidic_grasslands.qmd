@@ -1,0 +1,12 @@
+---
+title: "Vegetation change in acidic dry grasslands in Moravia (Czech Republic) over three decades: Slow decrease in habitat quality after grazing cessation"
+image: "images/clipboard-715924466.png"
+about: 
+  id: heading
+  template: marquee
+  image-shape: rectangle
+---
+
+Acidophilous dry grasslands in southwestern Moravia have been relatively stable over the past 30 years. However, a slow decline in habitat quality has been observed. The total species richness, the number of threatened species and the number of dry grassland specialists significantly decreased over the past 30 years. Dry grassland specialists, e.g., *Asperula cynanchica, Campanula moravica, Carlina acaulis, Euphrasia stricta, Pulsatilla grandis* and *Pilosella echioides* were among the species showing the strongest decline. Among the most increasing species were annual species, e.g., *Bromus hordeaceus, Petrorhagia prolifera, Trifolium arvense*, and *Veronica dillenii*, juvenile woody plants, e.g., *Prunus* sp., *Quercus petraea*, and *Rosa* sp. Overall, there was a significant increase in annual and woody species. The increase in alien species was mainly driven by an increase in archaeophytes, while neophytes remained rare in both time periods. The tall competitive grass *Arrhenatherum elatius*, considered an archaeophyte in the study area, appeared among the most increasing species. The decline in species richness was significantly associated with the increase in *Arrhenatherum* cover. The only change in ecological indicator values was an increase in indicator values for nutrients. These trends signalling a decline in habitat quality were less pronounced in protected areas than outside of them.
+
+Harásek, M., **Klinkovská, K.** & Chytrý, M. (2023). *Vegetation change in acidic dry grasslands in Moravia (Czech Republic) over three decades: Slow decrease in habitat quality after grazing cessation.* **Applied Vegetation Science** 26: e12726. [![Static Badge](https://img.shields.io/badge/DOI-10.1111%2Favsc.12726-green)](https://doi.org/10.1111/avsc.12726) – Data: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7699047.svg)](https://doi.org/10.5281/zenodo.7699047)

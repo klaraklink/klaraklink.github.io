@@ -1,0 +1,17 @@
+---
+title: "ReSurveyEurope: a database of resurveyed vegetation plots in Europe"
+image: "images/clipboard-643231045.png"
+about: 
+  id: heading
+  template: marquee
+  image-shape: rectangle
+---
+
+The data paper introduces the ReSurveyEurope database, which comprises resurveyed vegetation plots from all habitats across Europe. Version 1.0 contains 79,190 resurveyed plots (283,135 observations) from 449 independent resurvey projects. Permanent plots marked in the field or located with differential GPS constitute 78% (62,139 plots) of the dataset. The remaining 22% (17,051 plots) come from studies in which plots from the initial survey could not be relocated exactly. Most of the plots (64%, 50,720 plots) contain information about species abundance, such as percentage cover or cover–abundance classes, including variants of the Braun-Blanquet scale. The remaining 36% (28,470 plots) coming from four datasets provide information about the presence/absence of individual plant species. The oldest plots were sampled in 1911 in the Swiss Alps, while the majority of plots were sampled between 1950 and 2020. The Czech Republic is ranked as the ninth most contributing country according to the number of plots. Resurveyed plots from the Czech Republic account for 2% of the dataset (1,544 plots, 14,242 observations). Most of the data from the Czech Republic (1,508 plots, 13,543 observations) include information on species abundances. The oldest plots in the Czech Republic were sampled in 1936, and the longest time series collected data from single plots over more than 60 years.
+
+::: {.callout-tip appearance="simple" icon="false"}
+The data from the ReSurveyEurope database can be requested in accordance with the Data Property and Governance Rules of ReSurveyEurope, available at <https://euroveg.org/resurvey/>.
+:::
+
+Knollová, I., Chytrý, M., Bruelheide, H., Dullinger, S., Jandt, U., Bernhardt-Römermann, M., Biurrun, I., de Bello, F., Glaser,M., Hennekens, S., Jansen, F., Jiménez-Alfaro, B., Kadaš, D., Kaplan, E., **Klinkovská, K.**, Kuzemko, A., Lenzner, B., Pauli, H., Sperandii, M. G. … Essl, F. (2024). *ReSurveyEurope: a database of resurveyed vegetation plots in Europe.* **Journal of Vegetation Science** 35: e13235. [![Static Badge](https://img.shields.io/badge/DOI-10.1111%2Fjvs.13235-green)](https://doi.org/10.1111/jvs.13235)
+

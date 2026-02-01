@@ -1,0 +1,37 @@
+---
+title: "Klára Friesová"
+
+about: 
+  id: heading
+  image: images/klinkovska-6c3e19f064e961b0b37a2bc784e912f8.jpg
+  template: solana
+  image-shape: rectangle
+  links: 
+    - text: "{{< ai orcid >}} ORCID"
+      href: https://orcid.org/0000-0002-1644-2140
+    - icon: github
+      text: "GitHub"
+      href: https://github.com/klaraklink
+    - text: "{{< ai researchgate >}} ResearchGate"
+      href: https://www.researchgate.net/profile/Klara-Friesova 
+    - text: "{{< ai google-scholar >}} Google Scholar"
+      href: https://scholar.google.com/citations?user=cN7YoZcAAAAJ&hl=cs#
+    - text: "{{< iconify ion:mail >}} klinkovska.klara(at)gmail.com"
+      href: mailto:klinkovska.klara(at)gmail.com
+---
+
+::: {#heading}
+Hello, I'm Klára Friesová (formerly Klinkovská), a vegetation ecologist currently based at the [Department of Botany and Zoology](https://botzool.sci.muni.cz/en) at [Masaryk University](https://www.muni.cz/en) in Brno, Czech Republic. My research primarily focuses on temporal changes in biodiversity, particularly changes in plant species and communities, as well as the underlying drivers of these changes. My research interests also include community ecology, vegetation ecology and various patterns and drivers of plant diversity. At Masaryk University, I teach field courses for students of botany and courses on data handling, visualisation, and analysis in R.
+:::
+
+## Website navigation
+
+-   🌱 [CV](about_me/CV.qmd)
+
+-   📄 [Publications](about_me/publications.qmd)
+
+-   💡 [Projects](projects/projects.qmd)
+
+-   ✨ [Skills and experience](about_me/skills_experience.qmd)
+
+-   👩🏻‍🏫 [Teaching](teaching/teaching.qmd)

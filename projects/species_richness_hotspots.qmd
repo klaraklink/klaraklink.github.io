@@ -1,0 +1,17 @@
+---
+title: "European hotspots of local plant community species richness: origin and current changes"
+image: "images/clipboard-3920485434.png"
+about:
+  id: heading
+  template: marquee
+---
+
+The project, entitled "European hotspots of local plant community species richness: origin and current changes," is led by Milan Chytrý at Masaryk University. It is funded by the Czech Science Foundation (GAČR) under the number GA25-15235S.
+
+The aims of this project are to explain the unique phenomenon of extremely species-rich plant communities in Europe. It will conduct a baseline survey of these communities in Europe, investigate the mechanisms of their origin, and analyse their current changes and key threats to their biodiversity.
+
+::: {.callout-tip appearance="simple" icon="false"}
+## My role
+
+My contribution to this project includes fieldwork focusing on species-rich communities across Europe, till now in Montenegro, Serbia and Slovenia. I prepared a publication focusing on patterns of species richness in forests of Montenegro, the western Balkan diversity hotspot, which is currently under review. Moreover, I analysed patterns of species diversity along a latitudinal gradient across the West Siberian Plain and north Kazakhstan, aiming to understand the drivers of species diversity patterns. The manuscript based on these results has been recently submitted to a scientific journal. 
+:::

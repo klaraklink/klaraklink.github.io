@@ -1,0 +1,19 @@
+---
+title: "Research Projects"
+listing:
+  id: projects
+  max-description-length: 200
+  image-height: 200px
+  fields: [image, title, description]
+  contents: 
+    - phd_project/phd_project.qmd
+    - MOTIVATE.qmd
+    - EVA_FAIR.qmd
+    - species_richness_hotspots.qmd
+  sort: false
+  type: grid
+  grid-item-border: false
+---
+
+::: {#projects}
+:::

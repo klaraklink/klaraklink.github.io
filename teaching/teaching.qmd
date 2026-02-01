@@ -1,0 +1,45 @@
+---
+title: "Teaching Activities"
+format: 
+  html:
+    code-fold: false
+    code-tools: false
+    toc: true
+    toc-depth: 3
+---
+
+::: {.callout-note appearance="simple" icon="false"}
+# 💻 Data Manipulation and visualisation in R (2025 – present)
+
+This course is designed for students interested in learning how to effectively manipulate and visualise data using R programming language.
+
+We introduce advanced methods of data manipulation and visualisation in R, especially using libraries from the `tidyverse` collection (`tidyr`, `dplyr`, `tibble`, `purrr`, `stringr`, `ggplot2`, `readr`). The goal of the course is to teach students routine data manipulation, enabling them to import, edit, filter, and attach new information from external data sources. This includes creating new variables (e.g., based on calculations), grouping samples by specific characteristics or information, and calculating other parameters for these groups.
+
+Students will also learn basic and advanced methods of data visualisation using `ggplot2` and create basic maps in R.
+
+The goal of the course is also to adopt the open data science approach, where students will learn how to prepare a script that can be published on the GitHub platform at the end.
+
+Study materials for this course are available on this website: <https://botzooldataanalysis.github.io/DataManipulationVisualisation/data_manipulation_visualisation.html>
+:::
+
+::: {.callout-tip appearance="simple" icon="false"}
+# 🌱 Field course of geobotany (2024 – present)
+
+The Field course of geobotany is an intensive, five-day course held at the field station outside Brno. The main aim is the introduction of basic skills and field methods used in vegetation ecology (recording phytosociological relevés, measuring and estimation of basic stand parameters, soil sampling and chemical analysis, microclimatic measurements, manipulative experiment, vegetation mapping).
+
+![](images/clipboard-2092976829.jpeg){fig-align="center" width="60%"}
+
+For more information about the course, see: <https://is.muni.cz/course/sci/jaro2026/BI6661?lang=en>
+:::
+
+::: {.callout-note appearance="simple" icon="false"}
+# 📈 Data analysis in community ecology (2023–2024)
+
+The course introduces methods of statistical analysis of data on species composition of plant or animal communities, irrespective of their taxonomic delimitation. The principal course topics include advanced data manipulation techniques, analyses of diversity, ordination methods, and numerical classification. At the end of this course, students should be able to apply the methods discussed in the R environment.
+
+For more information about the course, see: <https://is.muni.cz/course/sci/podzim2025/BI7542?lang=en>
+
+Together with Kryštof Chytrý, we prepared a cookbook for the basics of the use of unconstrained and constrained ordinations (in Czech): <https://docs.google.com/document/d/1M2dbkbGgy2kv5Ch43CHIBJdBTIsJSdR-kZVt4wlsiDI/edit?usp=sharing>
+
+More study materials are going to be added to this website: <https://botzooldataanalysis.github.io/CommunityEcology/community_ecology.html>
+:::

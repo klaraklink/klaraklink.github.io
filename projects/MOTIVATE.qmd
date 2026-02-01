@@ -1,0 +1,22 @@
+---
+title: "MOTIVATE"
+image: "images/clipboard-2134380028.png"
+about: 
+  id: heading
+  template: marquee
+---
+
+MOTIVATE (Monitoring Of Terrestrial habitats by Integrating Vegetation Archive Time series in Europe) is a European-funded consortium of seven academic partners. Our key goal is to co-design a data platform that supports standardised, accessible reporting of biodiversity indicators for conservation managers and decision-makers, thereby advancing a comprehensive approach to biodiversity monitoring across Europe.
+
+For more information, check the project website: [https://motivate-biodiversity.eu](https://motivate-biodiversity.eu){target="_blank"}
+
+::: {.callout-tip appearance="simple" icon="false"}
+## My role
+
+I conducted an analysis of vegetation change in the Czech Republic and published the results as a part of the MOTIVATE project:
+
+**Klinkovská, K.**, Sperandii M. G., Knollová, I., Danihelka, J., Hájek, M., Hájková, P., Hroudová, Z., Jiroušek, M., Lepš, J., Navrátilová, J., Peterka, T., Petřík, P., Prach, K., Řehounková, K., Rohel, J., Sobotka, V., Vávra, M., Bruelheide, H. & Chytrý, M. (2025). *Half a century of temperate non-forest vegetation changes: no net loss in species richness, but considerable shifts in taxonomic and functional composition.* **Global Change Biology** 31: e70030. [![Static Badge](https://img.shields.io/badge/DOI-10.1111%2Fgcb.70030-green){alt="Static Badge" target="_blank"}](#0) – Data and code: [![DOI](https://zenodo.org/badge/862873758.svg){alt="DOI"}](#0)
+
+My role in this project also consists of fieldwork aiming to fill gaps in vegetation resurvey data. Together with other colleagues, we conducted fieldwork in Serbia, where we resurveyed vegetation plots of forest vegetation. 
+
+:::

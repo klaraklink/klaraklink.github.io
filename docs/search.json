@@ -1,0 +1,289 @@
+[
+  {
+    "objectID": "teaching/teaching.html",
+    "href": "teaching/teaching.html",
+    "title": "Teaching Activities",
+    "section": "",
+    "text": "💻 Data Manipulation and visualisation in R (2025 – present)\n\n\n\nThis course is designed for students interested in learning how to effectively manipulate and visualise data using R programming language.\nWe introduce advanced methods of data manipulation and visualisation in R, especially using libraries from the tidyverse collection (tidyr, dplyr, tibble, purrr, stringr, ggplot2, readr). The goal of the course is to teach students routine data manipulation, enabling them to import, edit, filter, and attach new information from external data sources. This includes creating new variables (e.g., based on calculations), grouping samples by specific characteristics or information, and calculating other parameters for these groups.\nStudents will also learn basic and advanced methods of data visualisation using ggplot2 and create basic maps in R.\nThe goal of the course is also to adopt the open data science approach, where students will learn how to prepare a script that can be published on the GitHub platform at the end.\nStudy materials for this course are available on this website: https://botzooldataanalysis.github.io/DataManipulationVisualisation/data_manipulation_visualisation.html\n\n\n\n\n\n\n\n\n🌱 Field course of geobotany (2024 – present)\n\n\n\nThe Field course of geobotany is an intensive, five-day course held at the field station outside Brno. The main aim is the introduction of basic skills and field methods used in vegetation ecology (recording phytosociological relevés, measuring and estimation of basic stand parameters, soil sampling and chemical analysis, microclimatic measurements, manipulative experiment, vegetation mapping).\n\n\n\n\n\nFor more information about the course, see: https://is.muni.cz/course/sci/jaro2026/BI6661?lang=en\n\n\n\n\n\n\n\n\n📈 Data analysis in community ecology (2023–2024)\n\n\n\nThe course introduces methods of statistical analysis of data on species composition of plant or animal communities, irrespective of their taxonomic delimitation. The principal course topics include advanced data manipulation techniques, analyses of diversity, ordination methods, and numerical classification. At the end of this course, students should be able to apply the methods discussed in the R environment.\nFor more information about the course, see: https://is.muni.cz/course/sci/podzim2025/BI7542?lang=en\nTogether with Kryštof Chytrý, we prepared a cookbook for the basics of the use of unconstrained and constrained ordinations (in Czech): https://docs.google.com/document/d/1M2dbkbGgy2kv5Ch43CHIBJdBTIsJSdR-kZVt4wlsiDI/edit?usp=sharing\nMore study materials are going to be added to this website: https://botzooldataanalysis.github.io/CommunityEcology/community_ecology.html"
+  },
+  {
+    "objectID": "projects/projects.html",
+    "href": "projects/projects.html",
+    "title": "Research Projects",
+    "section": "",
+    "text": "PhD Project: Changes in vegetation and flora of the Czech Republic\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMOTIVATE\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEVA-FAIR\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEuropean hotspots of local plant community species richness: origin and current changes\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "projects/phd_project/resurvey_analysis.html",
+    "href": "projects/phd_project/resurvey_analysis.html",
+    "title": "Half a century of temperate non-forest vegetation changes: no net loss in species richness, but considerable shifts in taxonomic and functional composition",
+    "section": "",
+    "text": "The comprehensive analysis of all available non-forest vegetation-plot time series data from the Czech Republic revealed considerable temporal changes in habitat quality. Species richness increased over time in most habitat types, however, there were significant shifts in taxonomic and functional community composition, indicating a decline in habitat quality. Habitat specialists and threatened species became less represented in plant communities. Woody species, tall herbaceous plants, grasses, and strong competitors, as well as nutrient-demanding species and species successful in the colonisation of new habitats, increased in all non-forest habitats. At the same time, light-demanding species declined, suggesting an effect of eutrophication and natural succession following the abandonment of traditional management practices. We did not identify any significant trend in the representation of neophytes. There were considerable differences in temporal trends between individual habitat types, suggesting varying importance of multiple threatening factors. In wetlands, springs, and mires, moisture-demanding species decreased, probably due to drainage, river regulations, and increasing drought resulting from climate change. Dry grasslands, ruderal, weed, along with sand and shallow-soil vegetation became more mesic, and successional processes were most pronounced in these communities, suggesting a stronger effect of abandonment of traditional management and eutrophication. In alpine and subalpine vegetation, meadows and mesic pastures, Nardus grasslands and heathlands, insect-pollinated species declined, and the proportion of grasses increased.\nKlinkovská, K., Sperandii M. G., Knollová, I., Danihelka, J., Hájek, M., Hájková, P., Hroudová, Z., Jiroušek, M., Lepš, J., Navrátilová, J., Peterka, T., Petřík, P., Prach, K., Řehounková, K., Rohel, J., Sobotka, V., Vávra, M., Bruelheide, H. & Chytrý, M. (2025). Half a century of temperate non-forest vegetation changes: no net loss in species richness, but considerable shifts in taxonomic and functional composition. Global Change Biology 31: e70030.  – Data and code:"
+  },
+  {
+    "objectID": "projects/phd_project/pannonian_sands.html",
+    "href": "projects/phd_project/pannonian_sands.html",
+    "title": "Vegetation remains, specialist species fade: changes in Pannonian sand grasslands",
+    "section": "",
+    "text": "The main types of sand grasslands in the Vienna Basin have persisted over recent decades and have not been replaced by other vegetation types. However, there have been significant changes in the species composition of sand vegetation. Among the most decreasing species were several sand and dry grassland specialists, e.g., Cynodon dactylon, Jasione montana, Pimpinella saxifraga, Seseli annuum, and Thymus serpyllum. In contrast, neophytes, e.g., Erigeron annuus, and graminoids, e.g., Agrostis vinealis, Anthoxanthum odoratum, Calamagrostis epigejos, Carex liparocarpos, and Poa pratensis agg., were among the species that increased most. The overall species richness increased over time, yet the proportion of sand and dry grassland specialists declined in the whole dataset. The decline in sand specialists was most pronounced in the pioneer sand vegetation. There were no significant changes in the proportion of ruderal and threatened species. The proportion of alien species per plot was very low and remained unchanged over time. However, the summed frequency of alien species increased from 91 occurrences in the old plot observations to 147 in the new plot observations, and the frequency of some alien species increased between the first survey and the resurvey. There were also some neophyte species that occurred only in the new plot observations, e.g. Asclepias syriaca. Ellenberg-type indicator values for moisture and nutrients increased significantly, while indicator values for grazing pressure decreased. In pioneer sand vegetation, indicator values for temperature decreased significantly. In acidophilous and ruderalised sand grasslands, there was a marginally significant increase in indicator values for moisture, nutrients and disturbance severity, while indicator values for grazing pressure decreased significantly. There were no significant changes in indicator values in basiphilous sand grasslands except for a marginally significant increase in indicator values for soil disturbance.\nFriesová, K., Axmanová, I., Borovyk, D., Ćuk, M., Kopčan, B., Valachovič, M., Clark, A. T. & Chytrý, M. (2025). Vegetation remains, specialist species fade: changes in Pannonian sand grasslands. Preslia 97: 613–635.  – Data and code:"
+  },
+  {
+    "objectID": "projects/phd_project/can_we_trust.html",
+    "href": "projects/phd_project/can_we_trust.html",
+    "title": "Can we trust vegetation resurveys?",
+    "section": "",
+    "text": "In this methodological study, we assessed the accuracy of two-visit resurveys of plots by comparing their results with long-term trends in species richness and community turnover. We compiled a dataset of real-world permanent-plot time series that were sampled multiple times, often annually. Then, we extracted pairs of surveys from the individual time series and compared models based on these with models based on the full time series using Bayesian multilevel regressions. We found that two-visit resurveys accurately predicted long-term trends in community turnover. However, in the case of species richness, these resurveys converged with the predicted long-term trends in only half of the cases. The two-visit resurveys remain a vital tool for understanding changes in plant diversity, however, they should be used cautiously, with a focus on species composition rather than species richness.\nChytrý, K., Clark, A. T., Dullinger, S., Chytrý, M., Těšitel, J., Bruelheide, H., Doležal, J., Fenu, G., Hájek, M., Hájková, P., Jandt, U., Kertész, M., Ónodi, G., Petřík, P., Černý, T. & Friesová, K. (Submitted) Can we trust vegetation resurveys?"
+  },
+  {
+    "objectID": "projects/phd_project/acidic_grasslands.html",
+    "href": "projects/phd_project/acidic_grasslands.html",
+    "title": "Vegetation change in acidic dry grasslands in Moravia (Czech Republic) over three decades: Slow decrease in habitat quality after grazing cessation",
+    "section": "",
+    "text": "Acidophilous dry grasslands in southwestern Moravia have been relatively stable over the past 30 years. However, a slow decline in habitat quality has been observed. The total species richness, the number of threatened species and the number of dry grassland specialists significantly decreased over the past 30 years. Dry grassland specialists, e.g., Asperula cynanchica, Campanula moravica, Carlina acaulis, Euphrasia stricta, Pulsatilla grandis and Pilosella echioides were among the species showing the strongest decline. Among the most increasing species were annual species, e.g., Bromus hordeaceus, Petrorhagia prolifera, Trifolium arvense, and Veronica dillenii, juvenile woody plants, e.g., Prunus sp., Quercus petraea, and Rosa sp. Overall, there was a significant increase in annual and woody species. The increase in alien species was mainly driven by an increase in archaeophytes, while neophytes remained rare in both time periods. The tall competitive grass Arrhenatherum elatius, considered an archaeophyte in the study area, appeared among the most increasing species. The decline in species richness was significantly associated with the increase in Arrhenatherum cover. The only change in ecological indicator values was an increase in indicator values for nutrients. These trends signalling a decline in habitat quality were less pronounced in protected areas than outside of them.\nHarásek, M., Klinkovská, K. & Chytrý, M. (2023). Vegetation change in acidic dry grasslands in Moravia (Czech Republic) over three decades: Slow decrease in habitat quality after grazing cessation. Applied Vegetation Science 26: e12726.  – Data:"
+  },
+  {
+    "objectID": "projects/EVA_FAIR.html",
+    "href": "projects/EVA_FAIR.html",
+    "title": "EVA-FAIR",
+    "section": "",
+    "text": "The EVA-FAIR (Implementing FAIR principles in the European Vegetation Archive data) project is funded within the Open Science Clusters’ Action for Research and Society (OSCARS) Horizon Europe project under grant agreement No. 101129751. The EVA-FAIR project aims to implement FAIR principles in European databases of vegetation plots. These databases store plant occurrence and abundance records sampled across the continent for over a century. Such plots are the primary source of information on plant diversity in natural and anthropogenic habitats and their changes over time. EVA, the European Vegetation Archive currently contains more than 2 million vegetation plots with approx. 50 million plant occurrence records.\nThe goal of the project is to move EVA data towards open access, publishing them in trusted and FAIR-compliant repositories, such as Zenodo.\nBy advancing open science practices, the project supports researchers, conservationists, and citizen scientists across Europe, enabling comprehensive analyses of biodiversity changes over time.\n\n\n\n\n\n\nMy role\n\n\n\nWithin this project, I contributed to the development of a website presenting the Czech Vegetation Database: https://czechvegetationdatabase.github.io and created an online viewer, which provides maps and summary characteristics of selected vegetation plots: https://vegscibrno.shinyapps.io/CzechVegetationDatabase."
+  },
+  {
+    "objectID": "about_me/skills_experience.html",
+    "href": "about_me/skills_experience.html",
+    "title": "Skills and experience",
+    "section": "",
+    "text": "💻 Software\n\nR: Professional user (data manipulation, statistical analysis, work with spatial data, visualisation including shiny applications)\nPython: Basics for data manipulation\nBash: Basics necessary for working with HPC\nLaTeX: Familiar with document preparation\nReproducibility: Git/GitHub, Quarto, RMarkdown, Zenodo\nGIS: QGIS, ArcGIS, QField\nVegetation ecology software: Turboveg 2, JUICE\nOffice: MS Office, Google Workspace\nLiterature management: Zotero\n\n\n\n📈 Statistics\n\nUnivariate: LMs, GLMs, GAMs, Mixed-Effects Models\nMultivariate: Ordination, classification, diversity analyses (vegan R package)\nBayesian: Occupancy models (JAGS, spOccupancy R package)\n\n\n\n\n\n🌱 Fieldwork experience\n\n\n\n\n\n\n\n\n\n\n\n\nHalophytic vegetation in southern Moravia and Lower Austria\n\n\n\n\n\n\n\nSubalpine vegetation in the Eastern Sudetes\n\n\n\n\n\n\n\nTall-herb vegetation of the South Moravian forest-steppe\n\n\n\n\n\n\n\n\n\nSemi-dry grasslands in Central Moravian Carpathians\n\n\n\n\n\n\n\nPhenological sampling of steppe vegetation in the South Moravia\n\n\n\n\n\n\n\nSand vegetation in the Vienna Basin (Austria, Slovakia, Czech Republic)\n\n\n\n\n\n\n\n\n\nForest vegetation of Montenegro\n\n\n\n\n\n\n\nForest vegetation of Serbia\n\n\n\n\n\n\n\nSpecies-rich meadows in the Balkan penninsula\n\n\n\n\n\n\n\n\n\nSpecies richness hotspots in Slovenia\n\n\n\n\n\n\n\n\n\nMain outcome: Danihelka, J., Chytrý, K., Harásek, M., Hubatka, P., Klinkovská, K., Kratoš, F., Kučerová, A., Slachová, K., Szokala, D., Prokešová, H., Šmerdová, E., Večeřa, M. & Chytrý, M. (2022). Halophytic flora and vegetation in southern Moravia and northern Lower Austria: past and present. Preslia 94: 13-110.  – Data: \n\n\nMain outcome: Klinkovská, K., Kučerová, A., Pustková, Š., Rohel, J., Slachová, K., Sobotka, V., Szokala, D., Danihelka, J., Kočí, M., Šmerdová, E. & Chytrý, M. (2023). Subalpine vegetation changes in the East Sudetes (1973–2021): effects of abandonment, avalanches and conservation management. Applied Vegetation Science 26: e12711.  – Data: \n\n\nMain outcome: Klinkovská, K. & Roleček, J. (2023). Floristic classification of Geranion sanguinei in South Moravia (Czech Republic). Biologia 79: 1113–1127. \n\n\nMain outcome: Klinkovská, K., Sperandii, M. G., Trávníček, B. & Chytrý, M. (2024). Significant decline in habitat specialists in semi-dry grasslands over four decades. Biodiversity and Conservation 33: 161–178. [] – Data and code: []\n\n\nMain outcome: Friesová, K., Axmanová, I., Borovyk, D., Ćuk, M., Kopčan, B., Valachovič, M., Clark, A. T. & Chytrý, M. (2025). Vegetation remains, specialist species fade: changes in Pannonian sand grasslands. Preslia 97: 613–635.[] – Data and code: []"
+  },
+  {
+    "objectID": "about_me/CV.html",
+    "href": "about_me/CV.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "ORCID\n  \n  \n    \n     GitHub\n  \n  \n      ResearchGate\n  \n  \n      Google Scholar\n  \n  \n      klinkovska.klara(at)gmail.com\n  \n\n      \n\n\nMgr. Bc. Klára Friesová (formerly Klinkovská)\nBorn 27 August 1998, Brno, Czech Republic\nScopus Author ID: 57567408700\nWeb of Science ResearcherID: KEZ-9550-2024"
+  },
+  {
+    "objectID": "about_me/CV.html#personal-details",
+    "href": "about_me/CV.html#personal-details",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Mgr. Bc. Klára Friesová (formerly Klinkovská)\nBorn 27 August 1998, Brno, Czech Republic\nScopus Author ID: 57567408700\nWeb of Science ResearcherID: KEZ-9550-2024"
+  },
+  {
+    "objectID": "about_me/CV.html#education",
+    "href": "about_me/CV.html#education",
+    "title": "Curriculum Vitae",
+    "section": "Education",
+    "text": "Education\n2022–2026: Masaryk University, Faculty of Science, Doctoral degree programme: Ecological and Evolutionary Biology – Botany. Defence in European Doctorate mode (MUNI Mendel Doctorandus programme).\nThesis: Changes in vegetation and flora of the Czech Republic\n2020–2022: Masaryk University, Faculty of Science, Master’s degree programme: Botany – Plant Ecology. Graduated with Honours.\nThesis: Tall-herb vegetation of the south Moravian forest-steppe (in Czech).\n2019–2023: Masaryk University, Faculty of Science, Bachelor’s degree programme: German Language for Education\n2017–2020: Masaryk University, Faculty of Science, Bachelor’s degree programme: Ecological and Evolutionary Biology. Graduated with Honours.\nThesis: Vegetation characteristics of the geographically distinct floral elements of the Slavkov region (in Czech)."
+  },
+  {
+    "objectID": "about_me/CV.html#employment-history",
+    "href": "about_me/CV.html#employment-history",
+    "title": "Curriculum Vitae",
+    "section": "Employment history",
+    "text": "Employment history\n2022 – present: Department of Botany and Zoology, Faculty of Science, Masaryk University, position: Researcher"
+  },
+  {
+    "objectID": "about_me/CV.html#membership-in-professional-societies",
+    "href": "about_me/CV.html#membership-in-professional-societies",
+    "title": "Curriculum Vitae",
+    "section": "Membership in professional societies",
+    "text": "Membership in professional societies\nInternational Association for Vegetation Science (IAVS)\nGfÖ - The Ecological Society for Germany, Austria and Switzerland (Gesellschaft für Ökologie für Deutschland, Österreich und die Schweiz)"
+  },
+  {
+    "objectID": "about_me/CV.html#academic-stays",
+    "href": "about_me/CV.html#academic-stays",
+    "title": "Curriculum Vitae",
+    "section": "Academic stays",
+    "text": "Academic stays\n2024: Martin Luther University Halle-Wittenberg, Halle, Germany (3 months)"
+  },
+  {
+    "objectID": "about_me/CV.html#courses",
+    "href": "about_me/CV.html#courses",
+    "title": "Curriculum Vitae",
+    "section": "Courses",
+    "text": "Courses\nHierarchical spatial modelling for applied population and community ecology. Swiss Ornithological Institute, Sempach, 24–27 June 2024."
+  },
+  {
+    "objectID": "about_me/CV.html#research-projects",
+    "href": "about_me/CV.html#research-projects",
+    "title": "Curriculum Vitae",
+    "section": "Research projects",
+    "text": "Research projects\n2025–2027: European hotspots of local plant community species richness: origin and current changes. Czech Science Foundation (GA25-15235S), team member\n2024–2026: MOTIVATE: Monitoring Of Terrestrial habitats by Integrating Vegetation Archive Time series in Europe. Biodiversa+ (101052342), team member"
+  },
+  {
+    "objectID": "about_me/CV.html#teaching",
+    "href": "about_me/CV.html#teaching",
+    "title": "Curriculum Vitae",
+    "section": "Teaching",
+    "text": "Teaching\n2025 – present: Data manipulation and visualisation in R (Masaryk University)\n2024 – present: Field course of geobotany (Masaryk University)\n2023–2024: Data analysis in community ecology (Masaryk University)\nCo-supervisor of 1 Bachelor’s and 1 Master’s Thesis"
+  },
+  {
+    "objectID": "about_me/CV.html#international-conferences",
+    "href": "about_me/CV.html#international-conferences",
+    "title": "Curriculum Vitae",
+    "section": "International conferences",
+    "text": "International conferences\nKlinkovská, K., Glaser, M., Klímová, B., Grattarola, F., Danihelka, J., Kaplan, Z., Knollová, I., Novotný, P., Pyšek, P., Řezníčková, M., Wild, J. & Chytrý, M. (2025). Changes in the Czech flora over the last six decades: spatially explicit trends and their causes [talk]. 67th Annual Symposium of the International Association for Vegetation Science. Greeley, Colorado (US), 28 July–3 August 2025.\nKlinkovská, K., Sperandii, M. G., Knollová, I., Danihelka, J., Hájek, M., Hájková, P., Hroudová, Z., Jiroušek, M., Lepš, J., Navrátilová, J., Peterka, T., Petřík, P., Prach, K., Řehounková, K., Rohel, J., Sobotka, V., Vávra, M., Bruelheide, H. & Chytrý, M. (2025). Half a century of temperate non-forest vegetation changes: no net loss in species richness, but considerable shifts in taxonomic and functional composition [talk]. 33rd Conference European Vegetation Survey. Perugia, Italy, 28 April–2 May 2025.\nKlinkovská, K., Sperandii, M. G., Knollová, I., Bruelheide, H., Chytrý, M. & Data contributors (2024). Half a century of vegetation changes across temperate non-forest habitats: minor changes in species richness, considerable shifts in taxonomic and functional composition [talk]. 53rd Annual Meeting of the Ecological Society of Germany, Austria and Switzerland. Freising, Germany, 9–13 September 2024.\nKlinkovská, K., Glaser, M., Danihelka, J., Kaplan, Z., Knollová, I., Pyšek, P., Řezníčková, M., Wild, J. & Chytrý, M. (2023). Changes in Czech flora and vegetation over the last six decades [talk]. 52nd Annual Meeting of the Ecological Society of Germany, Austria and Switzerland. Leipzig, Germany, 12–16 September 2023.\nKlinkovská, K., Harásek, M., Sperandii, M. G., Trávníček, B. & Chytrý, M. (2023). Significant decline in habitat specialists in dry grasslands of South Moravia over four decades [talk]. 31st Conference European Vegetation Survey. Rome, Italy, 21–25 May 2023.\nKlinkovská, K. & Roleček, J. (2022). Tall-herb vegetation of the south Moravian forest-steppe [poster]. 30th Conference European Vegetation Survey. Bratislava, Slovakia, 9–13 May 2022."
+  },
+  {
+    "objectID": "about_me/CV.html#national-conferences",
+    "href": "about_me/CV.html#national-conferences",
+    "title": "Curriculum Vitae",
+    "section": "National conferences",
+    "text": "National conferences\nFriesová, K., Pustková, Š., Hubatka, P., Janišová, N., Nejeschlebová, K., Rohel, J., Sobotka, V., Šmerdová, E., Večeřa, M., Kadaš, D., Kopčan, B., Krejčová, M., Kučerová, A., Axmanová, I., Dřevojan, P., Janišová, M., Nikolei, R., Szokala, D., Stanišić-Vujačić, M., Stešević, D., Danihelka, J. & Chytrý, M. (2025). Druhová bohatost Černé Hory (Species richness of forests in Montenegro) [talk]. Konference České botanické společnosti: Český botanický výzkum v zahraničí (Conference of the Czech Botanical Society: Czech botanical survey abroad). Prague, 22–23 November 2025.\nKlinkovská, K., Sperandii, M. G., Knollová, I., Bruelheide, H., Chytrý, M. & Data contributors (2025). Změny nelesní vegetace České republiky v posledních 50 letech (Changes in non-forest vegetation of the Czech Republic in the last 50 years) [talk]. Konference České botanické společnosti: Dlouhodobé změny vegetace a krajiny (Conference of the Czech Botanical Society: Long-term changes of vegetation and landscape). České Budějovice, 23–24 November 2024.\nChytrý, K. & Klinkovská, K. (2024). Dá se věřit resurvey studiím? (Can we trust resurvey studies?) [poster]. Konference České botanické společnosti: Dlouhodobé změny vegetace a krajiny (Conference of the Czech Botanical Society: Long-term changes of vegetation and landscape). České Budějovice, 23–24 November 2024.\nKlinkovská, K., Glaser, M., Danihelka, J., Kaplan, Z., Knollová, I., Novotný, P., Pyšek, P., Řezníčková, M., Wild, J. & Chytrý, M. (2023). Změny české flóry v průběhu posledních šesti desetiletí (Changes in the Czech flora in the last six decades) [talk]. Konference České botanické společnosti: Dlouhodobé změny flóry České republiky (Conference of the Czech Botanical Society: Long-term changes of flora of the Czech Republic). Prague, 25–26 November 2023."
+  },
+  {
+    "objectID": "about_me/CV.html#ph.d.-student-meetings",
+    "href": "about_me/CV.html#ph.d.-student-meetings",
+    "title": "Curriculum Vitae",
+    "section": "Ph.D. student meetings",
+    "text": "Ph.D. student meetings\nKlinkovská, K. (2022). Changes in non-forest vegetation of the Czech Republic [talk]. 9th Meeting of Ph.D. students in Plant Ecology and Botany. Poroszló, Hungary, 23–25 September 2022."
+  },
+  {
+    "objectID": "about_me/CV.html#invited-seminar-talks",
+    "href": "about_me/CV.html#invited-seminar-talks",
+    "title": "Curriculum Vitae",
+    "section": "Invited seminar talks",
+    "text": "Invited seminar talks\nZměny české flóry a vegetace v posledních desetiletích (Changes in the Czech flora and vegetation over the last decades). Department of Botany, Faculty of Science, University of South Bohemia, České Budějovice (Czech Republic), 16 April 2025.\nChanges in the Czech flora and vegetation: Winners, losers and causes of changes. Faculty of Environmental Sciences, Czech University of Life Sciences, Prague (Czech Republic), 28 November 2024.\nChanges in the Czech flora and vegetation: Winners, losers and causes of changes. Department of Botany and Biodiversity Research, Faculty of Life Sciences, University of Vienna, Vienna (Austria), 17 October 2024.\nChanges in the Czech flora and vegetation: Winners, losers and causes of changes. Department of Botany, Faculty of Science, Charles University, Prague (Czech Republic), 23 April 2024."
+  },
+  {
+    "objectID": "about_me/CV.html#science-communication",
+    "href": "about_me/CV.html#science-communication",
+    "title": "Curriculum Vitae",
+    "section": "Science communication",
+    "text": "Science communication\nPress release communicating results of the publication Klinkovská et al. 2024, Biol. Conserv. to the public, following interviews for the Czech Television and Czech Radio\nParticipation in a short documentary about the stability and changes in South Moravian steppe vegetation, part of a documentary series for Czech Television about science and scientists\nScience Talk – popularisation talk at JCMM (South Moravian Centre for International Mobility)"
+  },
+  {
+    "objectID": "about_me/CV.html#peer-review",
+    "href": "about_me/CV.html#peer-review",
+    "title": "Curriculum Vitae",
+    "section": "Peer review",
+    "text": "Peer review\nRegularly reviewing manuscripts submitted to journals in the disciplines of ecology, biodiversity conservation and vegetation ecology, e.g., Biological Conservation, Applied Vegetation Science"
+  },
+  {
+    "objectID": "about_me/CV.html#awards",
+    "href": "about_me/CV.html#awards",
+    "title": "Curriculum Vitae",
+    "section": "Awards",
+    "text": "Awards\n\nVojtěch Jarošík Award for the publication Klinkovská et al. 2024, Biol. Conserv. (2nd place)\nRector’s Award for excellent students of doctoral degree programmes (2025)\nDean’s Award for a collective of outstanding students (2023)\nThe project of the dissertation thesis was awarded Brno Ph.D. Talent Scholarship (2022)\n2nd place in the Competition of student theses related to the environment and ecology in the South Moravian Region (Master’s thesis), 2022\n2nd place in the poster competition at the 30th Conference European Vegetation Survey in Bratislava, 9–13 May 2022\n1st place in the Competition of student theses related to the environment and ecology in the South Moravian Region (Bachelor’s thesis), 2020"
+  },
+  {
+    "objectID": "about_me/publications.html",
+    "href": "about_me/publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Friesová, K., Axmanová, I., Borovyk, D., Ćuk, M., Kopčan, B., Valachovič, M., Clark, A. T. & Chytrý, M. (2025). Vegetation remains, specialist species fade: changes in Pannonian sand grasslands. Preslia 97: 613–635. – Data and code: \nKlinkovská, K., Sperandii M. G., Knollová, I., Danihelka, J., Hájek, M., Hájková, P., Hroudová, Z., Jiroušek, M., Lepš, J., Navrátilová, J., Peterka, T., Petřík, P., Prach, K., Řehounková, K., Rohel, J., Sobotka, V., Vávra, M., Bruelheide, H. & Chytrý, M. (2025). Half a century of temperate non-forest vegetation changes: no net loss in species richness, but considerable shifts in taxonomic and functional composition. Global Change Biology 31: e70030.  – Data and code:"
+  },
+  {
+    "objectID": "about_me/publications.html#section",
+    "href": "about_me/publications.html#section",
+    "title": "Publications",
+    "section": "",
+    "text": "Friesová, K., Axmanová, I., Borovyk, D., Ćuk, M., Kopčan, B., Valachovič, M., Clark, A. T. & Chytrý, M. (2025). Vegetation remains, specialist species fade: changes in Pannonian sand grasslands. Preslia 97: 613–635. – Data and code: \nKlinkovská, K., Sperandii M. G., Knollová, I., Danihelka, J., Hájek, M., Hájková, P., Hroudová, Z., Jiroušek, M., Lepš, J., Navrátilová, J., Peterka, T., Petřík, P., Prach, K., Řehounková, K., Rohel, J., Sobotka, V., Vávra, M., Bruelheide, H. & Chytrý, M. (2025). Half a century of temperate non-forest vegetation changes: no net loss in species richness, but considerable shifts in taxonomic and functional composition. Global Change Biology 31: e70030.  – Data and code:"
+  },
+  {
+    "objectID": "about_me/publications.html#section-1",
+    "href": "about_me/publications.html#section-1",
+    "title": "Publications",
+    "section": "2024",
+    "text": "2024\nKlinkovská, K., Glaser, M., Danihelka, J., Kaplan, Z., Knollová, I., Novotný, P., Pyšek, P., Řezníčková, M., Wild, J. & Chytrý, M. (2024). Dynamics of the Czech flora over the last 60 years: winners, losers and causes of changes. Biological Conservation 292: 110502.  – Data and code: \nKnollová, I., Chytrý, M., Bruelheide, H., Dullinger, S., Jandt, U., Bernhardt-Römermann, M., Biurrun, I., de Bello, F., Glaser,M., Hennekens, S., Jansen, F., Jiménez-Alfaro, B., Kadaš, D., Kaplan, E., Klinkovská, K., Kuzemko, A., Lenzner, B., Pauli, H., Sperandii, M. G. … Essl, F. (2024). ReSurveyEurope: a database of resurveyed vegetation plots in Europe. Journal of Vegetation Science 35: e13235. \nKlinkovská, K., Sperandii, M. G., Trávníček, B. & Chytrý, M. (2024). Significant decline in habitat specialists in semi-dry grasslands over four decades. Biodiversity and Conservation 33: 161–178.  – Data and code:"
+  },
+  {
+    "objectID": "about_me/publications.html#section-2",
+    "href": "about_me/publications.html#section-2",
+    "title": "Publications",
+    "section": "2023",
+    "text": "2023\nHarásek, M., Klinkovská, K. & Chytrý, M. (2023). Vegetation change in acidic dry grasslands in Moravia (Czech Republic) over three decades: Slow decrease in habitat quality after grazing cessation. Applied Vegetation Science 26: e12726.  – Data: \nKlinkovská, K. & Roleček, J. (2023). Floristic classification of Geranion sanguinei in South Moravia (Czech Republic). Biologia 79: 1113–1127. \nKlinkovská, K., Kučerová, A., Pustková, Š., Rohel, J., Slachová, K., Sobotka, V., Szokala, D., Danihelka, J., Kočí, M., Šmerdová, E. & Chytrý, M. (2023). Subalpine vegetation changes in the East Sudetes (1973–2021): effects of abandonment, avalanches and conservation management. Applied Vegetation Science 26: e12711.  – Data:"
+  },
+  {
+    "objectID": "about_me/publications.html#section-3",
+    "href": "about_me/publications.html#section-3",
+    "title": "Publications",
+    "section": "2022",
+    "text": "2022\nChytrý, K., Prokešová, H., Duchoň, M., Klinkovská, K., Novák, P., Chytrý, M. & Divíšek, J. (2022). Ecotones in Central European forest-steppe: Edge effect occurs on hard rocks but not on loess. Journal of Vegetation Science 33: e13149.  – Data: \nDanihelka, J., Chytrý, K., Harásek, M., Hubatka, P., Klinkovská, K., Kratoš, F., Kučerová, A., Slachová, K., Szokala, D., Prokešová, H., Šmerdová, E., Večeřa, M. & Chytrý, M. (2022). Halophytic flora and vegetation in southern Moravia and northern Lower Austria: past and present. Preslia 94: 13-110.  – Data:"
+  },
+  {
+    "objectID": "about_me/publications.html#section-4",
+    "href": "about_me/publications.html#section-4",
+    "title": "Publications",
+    "section": "2020",
+    "text": "2020\nRoleček, J., Klinkovská, K. & Dřevojan, P. (2020). Liliová hora u Lulče na Vyškovsku – významná lokalita teplomilné flóry a vegetace [Liliová hora hill near Luleč (Vyškov district, Czech Republic) – remarkable site of thermophilous flora and vegetation]. Zprávy Vlastivědného muzea v Olomouci: Přírodní vědy 319: 16-29."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Klára Friesová",
+    "section": "",
+    "text": "ORCID\n  \n  \n    \n     GitHub\n  \n  \n      ResearchGate\n  \n  \n      Google Scholar\n  \n  \n      klinkovska.klara(at)gmail.com\n  \n\n      \nHello, I’m Klára Friesová (formerly Klinkovská), a vegetation ecologist currently based at the Department of Botany and Zoology at Masaryk University in Brno, Czech Republic. My research primarily focuses on temporal changes in biodiversity, particularly changes in plant species and communities, as well as the underlying drivers of these changes. My research interests also include community ecology, vegetation ecology and various patterns and drivers of plant diversity. At Masaryk University, I teach field courses for students of botany and courses on data handling, visualisation, and analysis in R."
+  },
+  {
+    "objectID": "index.html#website-navigation",
+    "href": "index.html#website-navigation",
+    "title": "Klára Friesová",
+    "section": "Website navigation",
+    "text": "Website navigation\n\n🌱 CV\n📄 Publications\n💡 Projects\n✨ Skills and experience\n👩🏻‍🏫 Teaching"
+  },
+  {
+    "objectID": "projects/MOTIVATE.html",
+    "href": "projects/MOTIVATE.html",
+    "title": "MOTIVATE",
+    "section": "",
+    "text": "MOTIVATE (Monitoring Of Terrestrial habitats by Integrating Vegetation Archive Time series in Europe) is a European-funded consortium of seven academic partners. Our key goal is to co-design a data platform that supports standardised, accessible reporting of biodiversity indicators for conservation managers and decision-makers, thereby advancing a comprehensive approach to biodiversity monitoring across Europe.\nFor more information, check the project website: https://motivate-biodiversity.eu\n\n\n\n\n\n\nMy role\n\n\n\nI conducted an analysis of vegetation change in the Czech Republic and published the results as a part of the MOTIVATE project:\nKlinkovská, K., Sperandii M. G., Knollová, I., Danihelka, J., Hájek, M., Hájková, P., Hroudová, Z., Jiroušek, M., Lepš, J., Navrátilová, J., Peterka, T., Petřík, P., Prach, K., Řehounková, K., Rohel, J., Sobotka, V., Vávra, M., Bruelheide, H. & Chytrý, M. (2025). Half a century of temperate non-forest vegetation changes: no net loss in species richness, but considerable shifts in taxonomic and functional composition. Global Change Biology 31: e70030.  – Data and code: \nMy role in this project also consists of fieldwork aiming to fill gaps in vegetation resurvey data. Together with other colleagues, we conducted fieldwork in Serbia, where we resurveyed vegetation plots of forest vegetation."
+  },
+  {
+    "objectID": "projects/phd_project/basiphilous_grasslands.html",
+    "href": "projects/phd_project/basiphilous_grasslands.html",
+    "title": "Significant decline in specialists in semi-dry grasslands over four decades",
+    "section": "",
+    "text": "Basiphilous semi-dry grasslands in the Central Moravian Carpathians experienced significant changes in species composition over the past four decades. Species richness, the proportion of threatened species and dry grassland specialists, typically xerophilous and light-demanding species decreased. Asperula cynanchica, Bupleurum falcatum, Campanula moravica, C. sibirica, Linum catharticum, and Pulsatilla grandis belonged to the most declining species. On the other hand, competitively stronger species with higher moisture and nutrient requirements increased together with juvenile woody species, e.g. Cornus sanguinea, Crataegus sp., Prunus sp., and Rosa sp. Among the most increasing species were also forest herbs, e.g., Brachypodium sylvaticum, Clinopodium vulgare, and Viola riviniana, and species with a ruderal tendency, e.g., Agrimonia eupatoria, Cirsium arvense, and Geum urbanum. Most plots belonged to the same vegetation type in both time periods, however, some dry grasslands evolved towards more mesophilous communities. Narrow-leaved dry grasslands (Festucion valesiacae) became broad-leaved semi-dry grasslands (Cirsio- Brachypodion pinnati) and broad-leaved dry grasslands (Cirsio-Brachypodion pinnati and Bromion erecti) became mesic grasslands (Arrhenatherion elatioris). Indicator values for light, temperature and disturbance frequency decreased significantly, while indicator values for moisture and nutrients increased. Outside protected areas, the decline of dry grassland specialists and an increase in indicator values for nutrients were more pronounced than in protected areas.\nKlinkovská, K., Sperandii, M. G., Trávníček, B. & Chytrý, M. (2024). Significant decline in habitat specialists in semi-dry grasslands over four decades. Biodiversity and Conservation 33: 161–178.  – Data and code:"
+  },
+  {
+    "objectID": "projects/phd_project/flora_change.html",
+    "href": "projects/phd_project/flora_change.html",
+    "title": "Dynamics of the Czech flora over the last 60 years: winners, losers and causes of changes",
+    "section": "",
+    "text": "The analysis of floristic records from the Pladias database detected significant changes in the Czech flora over the past six decades. The results revealed five main patterns of temporal change of individual species. The increasing species were supported by different environmental changes that peaked at different periods. Competitively strong, nutrient-demanding generalist species and species successful in colonising new habitats increased significantly from 1961 to 1980. The spread of these species was likely supported by eutrophication and anthropogenic disturbances, such as construction sites, built-up areas, roads, and open-pit mines, during this period. Shade-tolerant species of less disturbed habitats increased between 1981 and 2000, indicating an effect of habitat abandonment. Thermophilous species have begun to spread over the last 20 years, reflecting the rise in temperatures. Competitively strong species of less frequently disturbed habitats with higher moisture and nutrient requirements and low light requirements increased gradually over the last six decades. In contrast, specialised species of nutrient-poor habitats with low colonisation and competitive ability, associated with more frequent but less severe disturbances, steadily decreased due to the ongoing decline of habitat quality after the cessation of traditional management, and many of them have been included in the national Red List.\n\n\n\n\n\n\nShiny app showing trends of individual species: https://klaraklink.shinyapps.io/pladias_occ_models/\n\n\n\n\nKlinkovská, K., Glaser, M., Danihelka, J., Kaplan, Z., Knollová, I., Novotný, P., Pyšek, P., Řezníčková, M., Wild, J. & Chytrý, M. (2024). Dynamics of the Czech flora over the last 60 years: winners, losers and causes of changes. Biological Conservation 292: 110502.  – Data and code:"
+  },
+  {
+    "objectID": "projects/phd_project/phd_project.html",
+    "href": "projects/phd_project/phd_project.html",
+    "title": "PhD Project: Changes in vegetation and flora of the Czech Republic",
+    "section": "",
+    "text": "During my PhD, I focused on changes in vegetation and flora of the Czech Republic. The primary objective of my dissertation was to provide a comprehensive synthesis of changes in the non-forest vegetation and both forest and non-forest flora of the Czech Republic over recent decades. The individual studies identified temporal changes in both vascular plant species and plant communities at regional and national scales and compared the differences in changes between habitat types and time periods.\nThe project consisted of three specific objectives:\n1. To characterise regional changes in specific vegetation types through resurvey studies in areas where such studies were missing.\n2. To assess trends of vegetation change across vegetation types by a joint analysis of existing vegetation-plot data from earlier resurveys performed in the Czech Republic, which were collected for this purpose.\n3. To assess trends in plant species diversity based on the analysis of data from floristic databases.\n📗 Read dissertation thesis"
+  },
+  {
+    "objectID": "projects/phd_project/phd_project.html#aim-1-regional-vegetation-resurvey-studies",
+    "href": "projects/phd_project/phd_project.html#aim-1-regional-vegetation-resurvey-studies",
+    "title": "PhD Project: Changes in vegetation and flora of the Czech Republic",
+    "section": "Aim 1: Regional vegetation resurvey studies",
+    "text": "Aim 1: Regional vegetation resurvey studies\n\n\n\n\n\n\n\n\n\n\nVegetation change in acidic dry grasslands in Moravia (Czech Republic) over three decades: Slow decrease in habitat quality after grazing cessation\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSignificant decline in specialists in semi-dry grasslands over four decades\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVegetation remains, specialist species fade: changes in Pannonian sand grasslands\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "projects/phd_project/phd_project.html#aim-2-analysis-of-vegetation-resurvey-databases",
+    "href": "projects/phd_project/phd_project.html#aim-2-analysis-of-vegetation-resurvey-databases",
+    "title": "PhD Project: Changes in vegetation and flora of the Czech Republic",
+    "section": "Aim 2: Analysis of vegetation resurvey databases",
+    "text": "Aim 2: Analysis of vegetation resurvey databases\n\n\n\n\n\n\n\n\n\n\nReSurveyEurope: a database of resurveyed vegetation plots in Europe\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHalf a century of temperate non-forest vegetation changes: no net loss in species richness, but considerable shifts in taxonomic and functional composition\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCan we trust vegetation resurveys?\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "projects/phd_project/phd_project.html#aim-3-analysis-of-floristic-databases",
+    "href": "projects/phd_project/phd_project.html#aim-3-analysis-of-floristic-databases",
+    "title": "PhD Project: Changes in vegetation and flora of the Czech Republic",
+    "section": "Aim 3: Analysis of floristic databases",
+    "text": "Aim 3: Analysis of floristic databases\n\n\n\n\n\n\n\n\n\n\nDynamics of the Czech flora over the last 60 years: winners, losers and causes of changes\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "projects/phd_project/resurvey_europe.html",
+    "href": "projects/phd_project/resurvey_europe.html",
+    "title": "ReSurveyEurope: a database of resurveyed vegetation plots in Europe",
+    "section": "",
+    "text": "The data paper introduces the ReSurveyEurope database, which comprises resurveyed vegetation plots from all habitats across Europe. Version 1.0 contains 79,190 resurveyed plots (283,135 observations) from 449 independent resurvey projects. Permanent plots marked in the field or located with differential GPS constitute 78% (62,139 plots) of the dataset. The remaining 22% (17,051 plots) come from studies in which plots from the initial survey could not be relocated exactly. Most of the plots (64%, 50,720 plots) contain information about species abundance, such as percentage cover or cover–abundance classes, including variants of the Braun-Blanquet scale. The remaining 36% (28,470 plots) coming from four datasets provide information about the presence/absence of individual plant species. The oldest plots were sampled in 1911 in the Swiss Alps, while the majority of plots were sampled between 1950 and 2020. The Czech Republic is ranked as the ninth most contributing country according to the number of plots. Resurveyed plots from the Czech Republic account for 2% of the dataset (1,544 plots, 14,242 observations). Most of the data from the Czech Republic (1,508 plots, 13,543 observations) include information on species abundances. The oldest plots in the Czech Republic were sampled in 1936, and the longest time series collected data from single plots over more than 60 years.\n\n\n\n\n\n\nThe data from the ReSurveyEurope database can be requested in accordance with the Data Property and Governance Rules of ReSurveyEurope, available at https://euroveg.org/resurvey/.\n\n\n\nKnollová, I., Chytrý, M., Bruelheide, H., Dullinger, S., Jandt, U., Bernhardt-Römermann, M., Biurrun, I., de Bello, F., Glaser,M., Hennekens, S., Jansen, F., Jiménez-Alfaro, B., Kadaš, D., Kaplan, E., Klinkovská, K., Kuzemko, A., Lenzner, B., Pauli, H., Sperandii, M. G. … Essl, F. (2024). ReSurveyEurope: a database of resurveyed vegetation plots in Europe. Journal of Vegetation Science 35: e13235."
+  },
+  {
+    "objectID": "projects/species_richness_hotspots.html",
+    "href": "projects/species_richness_hotspots.html",
+    "title": "European hotspots of local plant community species richness: origin and current changes",
+    "section": "",
+    "text": "The project, entitled “European hotspots of local plant community species richness: origin and current changes,” is led by Milan Chytrý at Masaryk University. It is funded by the Czech Science Foundation (GAČR) under the number GA25-15235S.\nThe aims of this project are to explain the unique phenomenon of extremely species-rich plant communities in Europe. It will conduct a baseline survey of these communities in Europe, investigate the mechanisms of their origin, and analyse their current changes and key threats to their biodiversity.\n\n\n\n\n\n\nMy role\n\n\n\nMy contribution to this project includes fieldwork focusing on species-rich communities across Europe, till now in Montenegro, Serbia and Slovenia. I prepared a publication focusing on patterns of species richness in forests of Montenegro, the western Balkan diversity hotspot, which is currently under review. Moreover, I analysed patterns of species diversity along a latitudinal gradient across the West Siberian Plain and north Kazakhstan, aiming to understand the drivers of species diversity patterns. The manuscript based on these results has been recently submitted to a scientific journal."
+  }
+]

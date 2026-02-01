@@ -1,0 +1,71 @@
+---
+title: "PhD Project: Changes in vegetation and flora of the Czech Republic"
+image: "images/phd_topic_scheme.png"
+about: 
+  id: heading
+  template: marquee
+  image-shape: rectangle
+
+listing: 
+  - id: aim_1
+    max-description-length: 200
+    image-height: 200px
+    fields: [image, title, description]
+    contents: 
+      - acidic_grasslands.qmd
+      - basiphilous_grasslands.qmd
+      - pannonian_sands.qmd
+    sort: false
+    type: grid
+
+  - id: aim_2
+    max-description-length: 200
+    image-height: 200px
+    fields: [image, title, description]
+    contents:
+      - resurvey_europe.qmd
+      - resurvey_analysis.qmd
+      - can_we_trust.qmd
+    sort: false
+    type: grid
+
+  - id: aim_3
+    max-description-length: 200
+    image-height: 200px
+    fields: [image, title, description]
+    contents:
+      - flora_change.qmd
+    sort: false
+    type: grid
+---
+
+::: {#heading}
+During my PhD, I focused on changes in vegetation and flora of the Czech Republic. The primary objective of my dissertation was to provide a comprehensive synthesis of changes in the non-forest vegetation and both forest and non-forest flora of the Czech Republic over recent decades. The individual studies identified temporal changes in both vascular plant species and plant communities at regional and national scales and compared the differences in changes between habitat types and time periods.
+
+The project consisted of three specific objectives:
+
+1\. To characterise regional changes in specific vegetation types through resurvey studies in areas where such studies were missing.
+
+2\. To assess trends of vegetation change across vegetation types by a joint analysis of existing vegetation-plot data from earlier resurveys performed in the Czech Republic, which were collected for this purpose.
+
+3\. To assess trends in plant species diversity based on the analysis of data from floristic databases.
+
+[📗 Read dissertation thesis](https://is.muni.cz/auth/th/b9gpr/)
+:::
+
+------------------------------------------------------------------------
+
+## Aim 1: Regional vegetation resurvey studies
+
+::: {#aim_1}
+:::
+
+## Aim 2: Analysis of vegetation resurvey databases
+
+::: {#aim_2}
+:::
+
+## Aim 3: Analysis of floristic databases
+
+::: {#aim_3}
+:::

@@ -1,0 +1,145 @@
+---
+title: "Skills and experience"
+format: html
+---
+
+::: {layout-ncol="2"}
+### 💻 Software
+
+-   **R:** Professional user (data manipulation, statistical analysis, work with spatial data, visualisation including shiny applications)
+-   **Python:** Basics for data manipulation
+-   **Bash:** Basics necessary for working with HPC
+-   **LaTeX:** Familiar with document preparation
+-   **Reproducibility:** Git/GitHub, Quarto, RMarkdown, Zenodo
+-   **GIS:** QGIS, ArcGIS, QField
+-   **Vegetation ecology software:** Turboveg 2, JUICE
+-   **Office:** MS Office, Google Workspace
+-   **Literature management:** Zotero
+
+### 📈 Statistics
+
+-   **Univariate:** LMs, GLMs, GAMs, Mixed-Effects Models
+-   **Multivariate:** Ordination, classification, diversity analyses (`vegan` R package)
+-   **Bayesian:** Occupancy models (JAGS, `spOccupancy` R package)
+:::
+
+### 🌱 Fieldwork experience
+
+```{r}
+#| echo: false
+#| message: false
+#| warning: false
+library(leaflet)
+
+leaflet() |> 
+  addProviderTiles(providers$Stadia.Outdoors)  |> 
+  addAwesomeMarkers(lng = 17.2380767, lat = 50.0553339, popup =
+  paste0(
+  "<div style='min-width: 150px; font-family: sans-serif;'>",
+    "<h4 style='margin: 0 0 5px 0; font-size: 13px; font-weight: bold;'>Subalpine vegetation in the Eastern Sudetes</h4>",
+    "<img src='images/hruby-jesenik_velka-kotlina.jpg' style='width: 100%; height: auto; max-height: 150px; object-fit: contain; border-radius: 5px; margin-bottom: 5px;'>",
+    "<a href='https://doi.org/10.1111/avsc.12711' target='_blank' style='background-color: #2255A1; color: white; padding: 5px 10px; text-decoration: none; border-radius: 3px; font-size: 12px;'>",
+    "📄 Read Publication</a>",
+  "</div>"
+), 
+                    icon = awesomeIcons(icon = 'circle', iconColor = '#FFFFFF', library = 'fa', markerColor = 'lightgray')) |> 
+  addAwesomeMarkers(lng = 16.7019942, lat = 48.7764950, popup =
+                      paste0(
+  "<div style='min-width: 150px; font-family: sans-serif;'>",
+    "<h4 style='margin: 0 0 5px 0; font-size: 13px; font-weight: bold;'>Halophytic vegetation in southern Moravia and Lower Austria</h4>",
+    "<img src='images/8786_Nesyt-Vytopa.JPG' style='width: 100%; height: auto; max-height: 150px; object-fit: contain; border-radius: 5px; margin-bottom: 5px;'>",
+    "<a href='https://doi.org/10.23855/preslia.2022.013' target='_blank' style='background-color: #2255A1; color: white; padding: 5px 10px; text-decoration: none; border-radius: 3px; font-size: 12px;'>",
+    "📄 Read Publication</a>",
+  "</div>"
+), 
+                    icon = awesomeIcons(icon = "circle", iconColor = '#FFFFFF', library = "fa", markerColor = 'lightblue')) |> 
+  addAwesomeMarkers(lng = 16.646433, lat = 48.8680831, popup = 
+                      paste0(
+  "<div style='min-width: 150px; font-family: sans-serif;'>",
+    "<h4 style='margin: 0 0 5px 0; font-size: 13px; font-weight: bold;'>Phenological sampling of steppe vegetation in the South Moravia</h4>",
+    "<img src='images/botanici_palava.jpg' style='width: 100%; height: auto; max-height: 150px; object-fit: contain; border-radius: 5px; margin-bottom: 5px;'>",
+  "</div>"
+),  icon = awesomeIcons(icon = "circle", iconColor = '#FFFFFF', library = "fa", markerColor = 'orange')) |> 
+  addAwesomeMarkers(lng = 17.1597635, lat = 49.1538649, popup = 
+                      paste0(
+  "<div style='min-width: 150px; font-family: sans-serif;'>",
+    "<h4 style='margin: 0 0 5px 0; font-size: 13px; font-weight: bold;'>Semi-dry grasslands in Central Moravian Carpathians</h4>",
+    "<img src='images/TKK065_DSC_0946.jpg' style='width: 100%; height: auto; max-height: 150px; object-fit: contain; border-radius: 5px; margin-bottom: 5px;'>",
+    "<a href='https://doi.org/10.1007/s10531-023-02740-6' target='_blank' style='background-color: #2255A1; color: white; padding: 5px 10px; text-decoration: none; border-radius: 3px; font-size: 12px;'>",
+    "📄 Read Publication</a>",
+  "</div>"
+), 
+             icon = awesomeIcons(icon = "circle", iconColor = '#FFFFFF', library = "fa", markerColor = 'orange')) |>
+  addAwesomeMarkers(lng = 16.9739678, lat = 48.9643804, popup = paste0(
+  "<div style='min-width: 150px; font-family: sans-serif;'>",
+    "<h4 style='margin: 0 0 5px 0; font-size: 13px; font-weight: bold;'>Tall-herb vegetation of the South Moravian forest-steppe</h4>",
+    "<img src='images/20-06-06_Dun_kopce_Dict_DSC_0527.jpg' style='width: 100%; height: auto; max-height: 150px; object-fit: contain; border-radius: 5px; margin-bottom: 5px;'>",
+    "<a href='https://doi.org/10.1007/s11756-023-01464-w' target='_blank' style='background-color: #2255A1; color: white; padding: 5px 10px; text-decoration: none; border-radius: 3px; font-size: 12px;'>",
+    "📄 Read Publication</a>",
+  "</div>"
+), 
+             icon = awesomeIcons(icon = "circle", iconColor = '#FFFFFF', library = "fa", markerColor = 'purple')) |>
+  addAwesomeMarkers(lng = 16.94513, lat = 48.55459, popup = paste0(
+  "<div style='min-width: 150px; font-family: sans-serif;'>",
+    "<h4 style='margin: 0 0 5px 0; font-size: 13px; font-weight: bold;'>Sand vegetation in the Vienna Basin (Austria, Slovakia, Czech Republic)</h4>",
+    "<img src='images/DSC_0394.jpg' style='width: 100%; height: auto; max-height: 150px; object-fit: contain; border-radius: 5px; margin-bottom: 5px;'>",
+    "<a href='https://doi.org/10.23855/preslia.2025.613' target='_blank' style='background-color: #2255A1; color: white; padding: 5px 10px; text-decoration: none; border-radius: 3px; font-size: 12px;'>",
+    "📄 Read Publication</a>",
+  "</div>"
+), 
+             icon = awesomeIcons(icon = "circle", iconColor = '#FFFFFF', library = "fa", markerColor = 'beige')) |>
+  addAwesomeMarkers(lng = 19.0166540, lat = 42.9060400, popup =
+                      paste0(
+  "<div style='min-width: 150px; font-family: sans-serif;'>",
+    "<h4 style='margin: 0 0 5px 0; font-size: 13px; font-weight: bold;'>Forest vegetation of Montenegro</h4>",
+    "<img src='images/IMG_4398.jpg' style='width: 100%; height: auto; max-height: 150px; object-fit: contain; border-radius: 5px; margin-bottom: 5px;'>",
+  "</div>"
+), 
+             icon = awesomeIcons(icon = "circle", iconColor = '#FFFFFF', library = "fa", markerColor = 'darkgreen')) |> 
+  addAwesomeMarkers(lng = 20.0072916, lat = 44.0951833, popup =
+                      paste0(
+  "<div style='min-width: 150px; font-family: sans-serif;'>",
+    "<h4 style='margin: 0 0 5px 0; font-size: 13px; font-weight: bold;'>Forest vegetation of Serbia</h4>",
+    "<img src='images/PBK05_DSC_0849.jpg' style='width: 100%; height: auto; max-height: 150px; object-fit: contain; border-radius: 5px; margin-bottom: 5px;'>",
+  "</div>"
+), 
+             icon = awesomeIcons(icon = "circle", iconColor = '#FFFFFF', library = "fa", markerColor = 'darkgreen')) |> 
+  addAwesomeMarkers(lng = 20.0646518, lat = 43.2433714, popup = 
+                      paste0(
+  "<div style='min-width: 150px; font-family: sans-serif;'>",
+    "<h4 style='margin: 0 0 5px 0; font-size: 13px; font-weight: bold;'>Species-rich meadows in the Balkan penninsula</h4>",
+    "<img src='images/IMG_3305.jpg' style='width: 100%; height: auto; max-height: 150px; object-fit: contain; border-radius: 5px; margin-bottom: 5px;'>",
+  "</div>"), 
+             icon = awesomeIcons(icon = "circle", iconColor = '#FFFFFF', library = "fa", markerColor = 'pink')) |> 
+  addAwesomeMarkers(lng = 13.8750830, lat = 46.177, popup = 
+                      paste0(
+  "<div style='min-width: 150px; font-family: sans-serif;'>",
+    "<h4 style='margin: 0 0 5px 0; font-size: 13px; font-weight: bold;'>Species richness hotspots in Slovenia</h4>",
+    "<img src='images/clipboard-1603813909.jpeg' style='width: 100%; height: auto; max-height: 150px; object-fit: contain; border-radius: 5px;'>",
+  "</div>"
+), 
+             icon = awesomeIcons(icon = "circle", iconColor = '#FFFFFF', library = "fa", markerColor = 'darkgreen'))
+```
+
+::: {layout-ncol="3"}
+![Halophytic vegetation in southern Moravia and Lower Austria](images/8786_Nesyt-Vytopa.JPG){group="fieldwork" description="**Main outcome**: Danihelka, J., Chytrý, K., Harásek, M., Hubatka, P., **Klinkovská, K.**, Kratoš, F., Kučerová, A., Slachová, K., Szokala, D., Prokešová, H., Šmerdová, E., Večeřa, M. & Chytrý, M. (2022). *Halophytic flora and vegetation in southern Moravia and northern Lower Austria: past and present.* **Preslia** 94: 13-110. [![Static Badge](https://img.shields.io/badge/DOI-10.23855%2Fpreslia.2022.013-green)](https://doi.org/10.23855/preslia.2022.013) – Data: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4624798.svg)](https://doi.org/10.5281/zenodo.4624798)"}
+
+![Subalpine vegetation in the Eastern Sudetes](images/hruby-jesenik_velka-kotlina.jpg){group="fieldwork" description="**Main outcome**: **Klinkovská, K.**, Kučerová, A., Pustková, Š., Rohel, J., Slachová, K., Sobotka, V., Szokala, D., Danihelka, J., Kočí, M., Šmerdová, E. & Chytrý, M. (2023). *Subalpine vegetation changes in the East Sudetes (1973–2021): effects of abandonment, avalanches and conservation management.* **Applied Vegetation Science** 26: e12711. [![Static Badge](https://img.shields.io/badge/DOI-10.1111%2Favsc.12711-green)](https://doi.org/10.1111/avsc.12711) – Data: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7338814.svg)](https://doi.org/10.5281/zenodo.7338814)"}
+
+![Tall-herb vegetation of the South Moravian forest-steppe](images/20-06-06_Dun_kopce_Dict_DSC_0527.jpg){group="fieldwork" description="**Main outcome**: **Klinkovská, K.** & Roleček, J. (2023). *Floristic classification of* Geranion sanguinei *in South Moravia (Czech Republic).* **Biologia** 79: 1113–1127. [![Static Badge](https://img.shields.io/badge/DOI-10.1007%2Fs11756--023--01464--w-green)](https://doi.org/10.1007/s11756-023-01464-w)"}
+
+![Semi-dry grasslands in Central Moravian Carpathians](images/TKK065_DSC_0946.jpg){group="fieldwork" description="**Main outcome**: **Klinkovská, K.**, Sperandii, M. G., Trávníček, B. & Chytrý, M. (2024). *Significant decline in habitat specialists in semi-dry grasslands over four decades.* **Biodiversity and Conservation** 33: 161–178. [![Static Badge](https://img.shields.io/badge/DOI-10.1007%2Fs10531--023--02740--6-green)] – Data and code: [![DOI](https://zenodo.org/badge/706733479.svg)]"}
+
+![Phenological sampling of steppe vegetation in the South Moravia](images/botanici_palava.jpg){group="fieldwork"}
+
+![Sand vegetation in the Vienna Basin (Austria, Slovakia, Czech Republic)](images/DSC_0394.jpg){group="fieldwork" description="**Main outcome**: **Friesová, K.**, Axmanová, I., Borovyk, D., Ćuk, M., Kopčan, B., Valachovič, M., Clark, A. T. & Chytrý, M. (2025). *Vegetation remains, specialist species fade: changes in Pannonian sand grasslands.* **Preslia** 97: 613–635.[![Static Badge](https://img.shields.io/badge/DOI-10.23855%2Fpreslia.2025.613-green)] – Data and code: [![DOI](https://zenodo.org/badge/1017296233.svg)]"}
+
+![Forest vegetation of Montenegro](images/IMG_4398.jpg){group="fieldwork"}
+
+![Forest vegetation of Serbia](images/PBK05_DSC_0849.jpg){group="\"fieldwork"}
+
+![Species-rich meadows in the Balkan penninsula](images/IMG_3305.jpg){group="fieldwork"}
+
+![Species richness hotspots in Slovenia](images/clipboard-1603813909.jpeg){group="fieldwork"}
+:::
+

@@ -1,0 +1,12 @@
+---
+title: "Significant decline in specialists in semi-dry grasslands over four decades"
+image: "images/clipboard-594393832.png"
+about: 
+  id: heading
+  template: marquee
+  image-shape: rectangle
+---
+
+Basiphilous semi-dry grasslands in the Central Moravian Carpathians experienced significant changes in species composition over the past four decades. Species richness, the proportion of threatened species and dry grassland specialists, typically xerophilous and light-demanding species decreased. *Asperula cynanchica, Bupleurum falcatum, Campanula moravica, C. sibirica, Linum catharticum*, and *Pulsatilla grandis* belonged to the most declining species. On the other hand, competitively stronger species with higher moisture and nutrient requirements increased together with juvenile woody species, e.g. *Cornus sanguinea, Crataegus* sp., *Prunus* sp., and *Rosa* sp. Among the most increasing species were also forest herbs, e.g., B*rachypodium sylvaticum,* *Clinopodium vulgare*, and *Viola riviniana*, and species with a ruderal tendency, e.g., *Agrimonia eupatoria, Cirsium arvense,* and *Geum urbanum*. Most plots belonged to the same vegetation type in both time periods, however, some dry grasslands evolved towards more mesophilous communities. Narrow-leaved dry grasslands (Festucion valesiacae) became broad-leaved semi-dry grasslands (*Cirsio- Brachypodion pinnati*) and broad-leaved dry grasslands (*Cirsio-Brachypodion pinnati* and *Bromion erecti*) became mesic grasslands (*Arrhenatherion elatioris*). Indicator values for light, temperature and disturbance frequency decreased significantly, while indicator values for moisture and nutrients increased. Outside protected areas, the decline of dry grassland specialists and an increase in indicator values for nutrients were more pronounced than in protected areas.
+
+**Klinkovská, K.**, Sperandii, M. G., Trávníček, B. & Chytrý, M. (2024). *Significant decline in habitat specialists in semi-dry grasslands over four decades.* **Biodiversity and Conservation** 33: 161–178. [![Static Badge](https://img.shields.io/badge/DOI-10.1007%2Fs10531--023--02740--6-green)](https://doi.org/10.1007/s10531-023-02740-6) – Data and code: [![DOI](https://zenodo.org/badge/706733479.svg)](https://doi.org/10.5281/zenodo.10060598)

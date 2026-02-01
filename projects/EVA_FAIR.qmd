@@ -1,0 +1,21 @@
+---
+title: "EVA-FAIR"
+image: "images/24-284-EVA-FAIR-logo.jpg"
+about: 
+  id: heading
+  template: marquee
+---
+
+The [EVA-FAIR](https://oscars-project.eu/projects/eva-fair-implementing-fair-principles-european-vegetation-archive-data) (Implementing FAIR principles in the European Vegetation Archive data) project is funded within the Open Science Clusters’ Action for Research and Society ([OSCARS](https://oscars-project.eu/)) Horizon Europe project under grant agreement No. 101129751. The EVA-FAIR project aims to implement FAIR principles in European databases of vegetation plots. These databases store plant occurrence and abundance records sampled across the continent for over a century. Such plots are the primary source of information on plant diversity in natural and anthropogenic habitats and their changes over time. EVA, the European Vegetation Archive currently contains more than 2 million vegetation plots with approx. 50 million plant occurrence records.
+
+The goal of the project is to move EVA data towards open access, publishing them in trusted and FAIR-compliant repositories, such as Zenodo.
+
+By advancing open science practices, the project supports researchers, conservationists, and citizen scientists across Europe, enabling comprehensive analyses of biodiversity changes over time.
+
+::: {.callout-tip appearance="simple" icon="false"}
+## My role
+
+Within this project, I contributed to the development of a website presenting the Czech Vegetation Database: <https://czechvegetationdatabase.github.io> and created an online viewer, which provides maps and summary characteristics of selected vegetation plots: <https://vegscibrno.shinyapps.io/CzechVegetationDatabase>.
+
+![](images/clipboard-1774762186.png)
+:::

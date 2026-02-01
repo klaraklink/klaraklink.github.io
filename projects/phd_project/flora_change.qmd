@@ -1,0 +1,20 @@
+---
+title: "Dynamics of the Czech flora over the last 60 years: winners, losers and causes of changes"
+image: "images/clipboard-1714099528.png"
+about: 
+  id: heading
+  template: marquee
+  image-shape: rectangle
+---
+
+The analysis of floristic records from the Pladias database detected significant changes in the Czech flora over the past six decades. The results revealed five main patterns of temporal change of individual species. The increasing species were supported by different environmental changes that peaked at different periods. Competitively strong, nutrient-demanding generalist species and species successful in colonising new habitats increased significantly from 1961 to 1980. The spread of these species was likely supported by eutrophication and anthropogenic disturbances, such as construction sites, built-up areas, roads, and open-pit mines, during this period. Shade-tolerant species of less disturbed habitats increased between 1981 and 2000, indicating an effect of habitat abandonment. Thermophilous species have begun to spread over the last 20 years, reflecting the rise in temperatures. Competitively strong species of less frequently disturbed habitats with higher moisture and nutrient requirements and low light requirements increased gradually over the last six decades. In contrast, specialised species of nutrient-poor habitats with low colonisation and competitive ability, associated with more frequent but less severe disturbances, steadily decreased due to the ongoing decline of habitat quality after the cessation of traditional management, and many of them have been included in the national Red List.
+
+::: {.callout-note appearance="simple" icon="false"}
+Shiny app showing trends of individual species: <https://klaraklink.shinyapps.io/pladias_occ_models/>
+
+![](images/clipboard-1407648580.png)
+:::
+
+
+**Klinkovská, K.**, Glaser, M., Danihelka, J., Kaplan, Z., Knollová, I., Novotný, P., Pyšek, P., Řezníčková, M., Wild, J. & Chytrý, M. (2024). *Dynamics of the Czech flora over the last 60 years: winners, losers and causes of changes.* **Biological Conservation** 292: 110502. [![Static Badge](https://img.shields.io/badge/DOI-10.1016%2Fj.biocon.2024.110502-green)](https://doi.org/10.1016/j.biocon.2024.110502) – Data and code: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10625478.svg)](https://zenodo.org/doi/10.5281/zenodo.10625478)
+

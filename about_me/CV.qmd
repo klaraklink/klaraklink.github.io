@@ -1,0 +1,149 @@
+---
+title: "Curriculum Vitae"
+format: html
+about: 
+  id: heading
+  image: "images/klinkovska-6c3e19f064e961b0b37a2bc784e912f8.jpg"
+  template: solana
+  image-shape: rectangle
+  links: 
+    - text: "{{< ai orcid >}} ORCID"
+      href: https://orcid.org/0000-0002-1644-2140
+    - icon: github
+      text: "GitHub"
+      href: https://github.com/klaraklink
+    - text: "{{< ai researchgate >}} ResearchGate"
+      href: https://www.researchgate.net/profile/Klara-Friesova 
+    - text: "{{< ai google-scholar >}} Google Scholar"
+      href: https://scholar.google.com/citations?user=cN7YoZcAAAAJ&hl=cs# 
+    - text: "{{< iconify ion:mail >}} klinkovska.klara(at)gmail.com"
+      href: mailto:klinkovska.klara(at)gmail.com
+---
+
+::: {#heading}
+## Personal details
+
+Mgr. Bc. Klára Friesová (formerly Klinkovská)
+
+Born 27 August 1998, Brno, Czech Republic
+
+Scopus Author ID: 57567408700
+
+Web of Science ResearcherID: KEZ-9550-2024
+:::
+
+## Education
+
+**2022–2026**: Masaryk University, Faculty of Science, Doctoral degree programme: Ecological and Evolutionary Biology – Botany. Defence in European Doctorate mode (MUNI Mendel Doctorandus programme).
+
+Thesis: *Changes in vegetation and flora of the Czech Republic*
+
+**2020–2022**: Masaryk University, Faculty of Science, Master’s degree programme: Botany – Plant Ecology. Graduated with Honours.
+
+Thesis: *Tall-herb vegetation of the south Moravian forest-steppe* (in Czech).
+
+**2019–2023**: Masaryk University, Faculty of Science, Bachelor’s degree programme: German Language for Education
+
+**2017–2020**: Masaryk University, Faculty of Science, Bachelor’s degree programme: Ecological and Evolutionary Biology. Graduated with Honours.
+
+Thesis: *Vegetation characteristics of the geographically distinct floral elements of the Slavkov region* (in Czech).
+
+## Employment history
+
+**2022 – present**: Department of Botany and Zoology, Faculty of Science, Masaryk University, position: Researcher
+
+## Membership in professional societies
+
+**International Association for Vegetation Science** (IAVS)
+
+**GfÖ** - The Ecological Society for Germany, Austria and Switzerland (Gesellschaft für Ökologie für Deutschland, Österreich und die Schweiz)
+
+## Academic stays
+
+**2024:** Martin Luther University Halle-Wittenberg, Halle, Germany (3 months)
+
+## Courses
+
+Hierarchical spatial modelling for applied population and community ecology. Swiss Ornithological Institute, Sempach, 24–27 June 2024.
+
+## Research projects
+
+**2025–2027:** *European hotspots of local plant community species richness: origin and current changes.* Czech Science Foundation (GA25-15235S), team member
+
+**2024–2026:** *MOTIVATE: Monitoring Of Terrestrial habitats by Integrating Vegetation Archive Time series in Europe.* Biodiversa+ (101052342), team member
+
+## Teaching
+
+**2025 – present:** [Data manipulation and visualisation in R](https://is.muni.cz/predmet/sci/podzim2025/BI8190?lang=en;setlang=en) (Masaryk University)
+
+**2024 – present:** [Field course of geobotany](https://is.muni.cz/course/sci/jaro2026/BI6661?lang=en) (Masaryk University)
+
+**2023–2024:** [Data analysis in community ecology](https://is.muni.cz/course/sci/podzim2025/BI7542?lang=en) (Masaryk University)
+
+Co-supervisor of 1 Bachelor's and 1 Master's Thesis
+
+## International conferences
+
+**Klinkovská, K.**, Glaser, M., Klímová, B., Grattarola, F., Danihelka, J., Kaplan, Z., Knollová, I., Novotný, P., Pyšek, P., Řezníčková, M., Wild, J. & Chytrý, M. (2025). Changes in the Czech flora over the last six decades: spatially explicit trends and their causes \[talk\]. *67th Annual Symposium of the International Association for Vegetation Science*. Greeley, Colorado (US), 28 July–3 August 2025.
+
+**Klinkovská, K.**, Sperandii, M. G., Knollová, I., Danihelka, J., Hájek, M., Hájková, P., Hroudová, Z., Jiroušek, M., Lepš, J., Navrátilová, J., Peterka, T., Petřík, P., Prach, K., Řehounková, K., Rohel, J., Sobotka, V., Vávra, M., Bruelheide, H. & Chytrý, M. (2025). Half a century of temperate non-forest vegetation changes: no net loss in species richness, but considerable shifts in taxonomic and functional composition \[talk\]. *33rd Conference European Vegetation Survey*. Perugia, Italy, 28 April–2 May 2025.
+
+**Klinkovská, K.**, Sperandii, M. G., Knollová, I., Bruelheide, H., Chytrý, M. & Data contributors (2024). Half a century of vegetation changes across temperate non-forest habitats: minor changes in species richness, considerable shifts in taxonomic and functional composition \[talk\]. *53rd Annual Meeting of the Ecological Society of Germany, Austria and Switzerland*. Freising, Germany, 9–13 September 2024.
+
+**Klinkovská, K.**, Glaser, M., Danihelka, J., Kaplan, Z., Knollová, I., Pyšek, P., Řezníčková, M., Wild, J. & Chytrý, M. (2023). Changes in Czech flora and vegetation over the last six decades \[talk\]. *52nd Annual Meeting of the Ecological Society of Germany, Austria and Switzerland*. Leipzig, Germany, 12–16 September 2023.
+
+**Klinkovská, K.**, Harásek, M., Sperandii, M. G., Trávníček, B. & Chytrý, M. (2023). Significant decline in habitat specialists in dry grasslands of South Moravia over four decades \[talk\]. *31st Conference European Vegetation Survey*. Rome, Italy, 21–25 May 2023.
+
+**Klinkovská, K.** & Roleček, J. (2022). Tall-herb vegetation of the south Moravian forest-steppe \[poster\]. *30th Conference European Vegetation Survey*. Bratislava, Slovakia, 9–13 May 2022.
+
+## National conferences
+
+**Friesová, K.**, Pustková, Š., Hubatka, P., Janišová, N., Nejeschlebová, K., Rohel, J., Sobotka, V., Šmerdová, E., Večeřa, M., Kadaš, D., Kopčan, B., Krejčová, M., Kučerová, A., Axmanová, I., Dřevojan, P., Janišová, M., Nikolei, R., Szokala, D., Stanišić-Vujačić, M., Stešević, D., Danihelka, J. & Chytrý, M. (2025). Druhová bohatost Černé Hory (Species richness of forests in Montenegro) \[talk\]. *Konference České botanické společnosti: Český botanický výzkum v zahraničí (Conference of the Czech Botanical Society: Czech botanical survey abroad)*. Prague, 22–23 November 2025.
+
+**Klinkovská, K.**, Sperandii, M. G., Knollová, I., Bruelheide, H., Chytrý, M. & Data contributors (2025). Změny nelesní vegetace České republiky v posledních 50 letech (Changes in non-forest vegetation of the Czech Republic in the last 50 years) \[talk\]. *Konference České botanické společnosti: Dlouhodobé změny vegetace a krajiny (Conference of the Czech Botanical Society: Long-term changes of vegetation and landscape)*. České Budějovice, 23–24 November 2024.
+
+Chytrý, K. & **Klinkovská, K.** (2024). Dá se věřit resurvey studiím? (Can we trust resurvey studies?) \[poster\]. *Konference České botanické společnosti: Dlouhodobé změny vegetace a krajiny (Conference of the Czech Botanical Society: Long-term changes of vegetation and landscape)*. České Budějovice, 23–24 November 2024.
+
+**Klinkovská, K.**, Glaser, M., Danihelka, J., Kaplan, Z., Knollová, I., Novotný, P., Pyšek, P., Řezníčková, M., Wild, J. & Chytrý, M. (2023). Změny české flóry v průběhu posledních šesti desetiletí (Changes in the Czech flora in the last six decades) \[talk\]. *Konference České botanické společnosti: Dlouhodobé změny flóry České republiky (Conference of the Czech Botanical Society: Long-term changes of flora of the Czech Republic).* Prague, 25–26 November 2023.
+
+## Ph.D. student meetings
+
+**Klinkovská, K.** (2022). Changes in non-forest vegetation of the Czech Republic \[talk\]. *9th Meeting of Ph.D. students in Plant Ecology and Botany*. Poroszló, Hungary, 23–25 September 2022.
+
+## Invited seminar talks
+
+Změny české flóry a vegetace v posledních desetiletích (Changes in the Czech flora and vegetation over the last decades). Department of Botany, Faculty of Science, **University of South Bohemia**, České Budějovice (Czech Republic), 16 April 2025.
+
+Changes in the Czech flora and vegetation: Winners, losers and causes of changes. Faculty of Environmental Sciences, **Czech University of Life Sciences**, Prague (Czech Republic), 28 November 2024.
+
+Changes in the Czech flora and vegetation: Winners, losers and causes of changes. Department of Botany and Biodiversity Research, Faculty of Life Sciences, **University of Vienna**, Vienna (Austria), 17 October 2024.
+
+Changes in the Czech flora and vegetation: Winners, losers and causes of changes. Department of Botany, Faculty of Science, **Charles University**, Prague (Czech Republic), 23 April 2024.
+
+## Science communication
+
+Press release communicating results of the publication Klinkovská et al. 2024, Biol. Conserv. to the public, following interviews for the [Czech Television](https://www.ceskatelevize.cz/porady/1096902795-studio-6/224411010100502/cast/1042463/) and Czech Radio
+
+Participation in a [short documentary](https://www.ceskatelevize.cz/porady/1181680258-tyden-v-regionech-brno/324281381890525/cast/1047323/) about the stability and changes in South Moravian steppe vegetation, part of a documentary series for Czech Television about science and scientists
+
+Science Talk – popularisation talk at JCMM (South Moravian Centre for International Mobility)
+
+## Peer review
+
+Regularly reviewing manuscripts submitted to journals in the disciplines of ecology, biodiversity conservation and vegetation ecology, e.g., Biological Conservation, Applied Vegetation Science
+
+## Awards
+
+-   **Vojtěch Jarošík Award** for the publication Klinkovská et al. 2024, Biol. Conserv. (2nd place)
+
+-   **Rector’s Award** for excellent students of doctoral degree programmes (2025)
+
+-   **Dean’s Award** for a collective of outstanding students (2023)
+
+-   The project of the dissertation thesis was awarded **Brno Ph.D. Talent** Scholarship (2022)
+
+-   2nd place in the **Competition of student theses** related to the environment and ecology in the South Moravian Region (Master's thesis), 2022
+
+-   2nd place in the **poster competition** at the 30th Conference European Vegetation Survey in Bratislava, 9–13 May 2022
+
+-   1st place in the **Competition of student theses** related to the environment and ecology in the South Moravian Region (Bachelor's thesis), 2020

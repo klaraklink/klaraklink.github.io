@@ -1,0 +1,23 @@
+[
+  {
+    "listing": "/projects/projects.html",
+    "items": [
+      "/projects/phd_project/phd_project.html",
+      "/projects/MOTIVATE.html",
+      "/projects/EVA_FAIR.html",
+      "/projects/species_richness_hotspots.html"
+    ]
+  },
+  {
+    "listing": "/projects/phd_project/phd_project.html",
+    "items": [
+      "/projects/phd_project/acidic_grasslands.html",
+      "/projects/phd_project/basiphilous_grasslands.html",
+      "/projects/phd_project/pannonian_sands.html",
+      "/projects/phd_project/resurvey_europe.html",
+      "/projects/phd_project/resurvey_analysis.html",
+      "/projects/phd_project/can_we_trust.html",
+      "/projects/phd_project/flora_change.html"
+    ]
+  }
+]

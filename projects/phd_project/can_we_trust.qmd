@@ -1,0 +1,12 @@
+---
+title: "Can we trust vegetation resurveys?"
+image: "images/clipboard-1545844010.png"
+about: 
+  id: heading
+  template: marquee
+  image-shape: rectangle
+---
+
+In this methodological study, we assessed the accuracy of two-visit resurveys of plots by comparing their results with long-term trends in species richness and community turnover. We compiled a dataset of real-world permanent-plot time series that were sampled multiple times, often annually. Then, we extracted pairs of surveys from the individual time series and compared models based on these with models based on the full time series using Bayesian multilevel regressions. We found that two-visit resurveys accurately predicted long-term trends in community turnover. However, in the case of species richness, these resurveys converged with the predicted long-term trends in only half of the cases. The two-visit resurveys remain a vital tool for understanding changes in plant diversity, however, they should be used cautiously, with a focus on species composition rather than species richness.
+
+Chytrý, K., Clark, A. T., Dullinger, S., Chytrý, M., Těšitel, J., Bruelheide, H., Doležal, J., Fenu, G., Hájek, M., Hájková, P., Jandt, U., Kertész, M., Ónodi, G., Petřík, P., Černý, T. & **Friesová, K.** (Submitted) Can we trust vegetation resurveys?
