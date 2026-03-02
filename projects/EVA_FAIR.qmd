@@ -1,6 +1,6 @@
 ---
 title: "EVA-FAIR"
-image: "images/24-284-EVA-FAIR-logo.jpg"
+image: "images/eva_fair.png"
 about: 
   id: heading
   template: marquee

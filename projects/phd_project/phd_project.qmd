@@ -50,7 +50,7 @@ The project consisted of three specific objectives:
 
 3\. To assess trends in plant species diversity based on the analysis of data from floristic databases.
 
-[📗 Read dissertation thesis](https://is.muni.cz/auth/th/b9gpr/)
+[📗 Read dissertation thesis](https://is.muni.cz/th/b9gpr/?lang=en)
 :::
 
 ------------------------------------------------------------------------

@@ -1,6 +1,6 @@
 ---
 title: "MOTIVATE"
-image: "images/clipboard-2134380028.png"
+image: "images/motivate.png"
 about: 
   id: heading
   template: marquee
