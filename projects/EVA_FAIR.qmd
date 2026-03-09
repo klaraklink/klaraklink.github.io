@@ -15,7 +15,7 @@ By advancing open science practices, the project supports researchers, conservat
 ::: {.callout-tip appearance="simple" icon="false"}
 ## My role
 
-Within this project, I contributed to the development of a website presenting the Czech Vegetation Database: <https://czechvegetationdatabase.github.io> and created an online viewer, which provides maps and summary characteristics of selected vegetation plots: <https://vegscibrno.shinyapps.io/CzechVegetationDatabase>.
+Within this project, I contributed to the development of a website presenting the Czech Vegetation Database: <https://czechveg.github.io> and created an online viewer, which provides maps and summary characteristics of selected vegetation plots: <https://vegscibrno.shinyapps.io/czechveg>.
 
 ![](images/clipboard-1774762186.png)
 :::
