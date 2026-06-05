@@ -26,12 +26,12 @@ Hello, I'm Klára Friesová (formerly Klinkovská), a vegetation ecologist curre
 
 ## Website navigation
 
--   🌱 [CV](about_me/CV.qmd)
+- 🌱 [CV](about_me/CV.qmd)
 
--   📄 [Publications](about_me/publications.qmd)
+- 📄 [Publications](about_me/publications.qmd)
 
--   💡 [Projects](projects/projects.qmd)
+- 💡 [Projects](projects/projects.qmd)
 
--   ✨ [Skills and experience](about_me/skills_experience.qmd)
+- ✨ [Skills and experience](about_me/skills_experience.qmd)
 
--   👩🏻‍🏫 [Teaching](teaching/teaching.qmd)
+- 👩🏻‍🏫 [Teaching](teaching/teaching.qmd)

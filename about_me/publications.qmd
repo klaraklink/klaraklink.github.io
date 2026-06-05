@@ -6,9 +6,13 @@ format:
     code-tools: false
 ---
 
+## 2026
+
+Kambach, S., Jandt, U., Acosta, A.T.R., Álvarez-Martínez, J.M., Axmanová, I., Bazzichetto, M., Bergmeier E., Bernhardt-Römmermann, M., Biurrun, I., Bonari, G., Carboni, M., Carlucci, M.B., Carranza, M.L. Cerabolini, B.E.L., Chiarucci, A., Chytrý, M., Damasceno, G., Dengler, J., De Sanctis, M., Divíšek, J., Doležal, J., Dullinger, S., Essl, F., **Friesová, K.** … Bruelheide, H. (2026). *Habitat-specific trends in taxonomic, functional, and phylogenetic diversity in European plant communities over a century.* **Nature Communications** 17: 4208. [![Static Badge](https://img.shields.io/badge/DOI-https%3A%2F%2Fdoi.org%2F10.1038%2Fs41467--026--72112--5-green)](https://doi.org/10.1038/s41467-026-72112-5)
+
 ## 2025
 
-**Friesová, K.**, Axmanová, I., Borovyk, D., Ćuk, M., Kopčan, B., Valachovič, M., Clark, A. T. & Chytrý, M. (2025). *Vegetation remains, specialist species fade: changes in Pannonian sand grasslands.* **Preslia** 97: 613–635.[![Static Badge](https://img.shields.io/badge/DOI-10.23855%2Fpreslia.2025.613-green)](https://doi.org/10.23855/preslia.2025.613) – Data and code: [![DOI](https://zenodo.org/badge/1017296233.svg)](https://doi.org/10.5281/zenodo.16258179)
+**Friesová, K.**, Axmanová, I., Borovyk, D., Ćuk, M., Kopčan, B., Valachovič, M., Clark, A. T. & Chytrý, M. (2025). *Vegetation remains, specialist species fade: changes in Pannonian sand grasslands.* **Preslia** 97: 613–635. [![Static Badge](https://img.shields.io/badge/DOI-10.23855%2Fpreslia.2025.613-green)](https://doi.org/10.23855/preslia.2025.613) – Data and code: [![DOI](https://zenodo.org/badge/1017296233.svg)](https://doi.org/10.5281/zenodo.16258179)
 
 **Klinkovská, K.**, Sperandii M. G., Knollová, I., Danihelka, J., Hájek, M., Hájková, P., Hroudová, Z., Jiroušek, M., Lepš, J., Navrátilová, J., Peterka, T., Petřík, P., Prach, K., Řehounková, K., Rohel, J., Sobotka, V., Vávra, M., Bruelheide, H. & Chytrý, M. (2025). *Half a century of temperate non-forest vegetation changes: no net loss in species richness, but considerable shifts in taxonomic and functional composition.* **Global Change Biology** 31: e70030. [![Static Badge](https://img.shields.io/badge/DOI-10.1111%2Fgcb.70030-green)](https://doi.org/10.1111/gcb.70030) – Data and code: [![DOI](https://zenodo.org/badge/862873758.svg)](https://doi.org/10.5281/zenodo.14589270)
 
