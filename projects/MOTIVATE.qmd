@@ -20,3 +20,5 @@ I conducted an analysis of vegetation change in the Czech Republic and published
 My role in this project also consists of fieldwork aiming to fill gaps in vegetation resurvey data. Together with other colleagues, we conducted fieldwork in Serbia, where we resurveyed vegetation plots of forest vegetation. 
 
 :::
+
+Kambach, S., Jandt, U., Acosta, A.T.R., Álvarez-Martínez, J.M., Axmanová, I., Bazzichetto, M., Bergmeier E., Bernhardt-Römmermann, M., Biurrun, I., Bonari, G., Carboni, M., Carlucci, M.B., Carranza, M.L. Cerabolini, B.E.L., Chiarucci, A., Chytrý, M., Damasceno, G., Dengler, J., De Sanctis, M., Divíšek, J., Doležal, J., Dullinger, S., Essl, F., **Friesová, K.** … Bruelheide, H. (2026). *Habitat-specific trends in taxonomic, functional, and phylogenetic diversity in European plant communities over a century.* **Nature Communications** 17: 4208. [![Static Badge](https://img.shields.io/badge/DOI-https%3A%2F%2Fdoi.org%2F10.1038%2Fs41467--026--72112--5-green)](https://doi.org/10.1038/s41467-026-72112-5) 

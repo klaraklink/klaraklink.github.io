@@ -10,7 +10,7 @@ about:
     - text: "{{< ai orcid >}} ORCID"
       href: https://orcid.org/0000-0002-1644-2140
     - icon: github
-      text: "GitHub"
+      text: "{{< ai github >}} GitHub"
       href: https://github.com/klaraklink
     - text: "{{< ai researchgate >}} ResearchGate"
       href: https://www.researchgate.net/profile/Klara-Friesova 
@@ -56,6 +56,8 @@ Thesis: *Vegetation characteristics of the geographically distinct floral elemen
 
 **International Association for Vegetation Science** (IAVS)
 
+Member of Steering Committee for [**IAVS EcoInformatics Working Group**](https://www.iavs.org/page/working-groups_ecoinformatics)
+
 **GfÖ** - The Ecological Society for Germany, Austria and Switzerland (Gesellschaft für Ökologie für Deutschland, Österreich und die Schweiz)
 
 ## Academic stays
@@ -74,15 +76,17 @@ Hierarchical spatial modelling for applied population and community ecology. Swi
 
 ## Teaching
 
-**2025 – present:** [Data manipulation and visualisation in R](https://is.muni.cz/predmet/sci/podzim2025/BI8190?lang=en;setlang=en) (Masaryk University)
+**2025 – present:** [Data manipulation and visualisation in R](https://is.muni.cz/predmet/sci/podzim2025/BI8190?lang=en;setlang=en) (Masaryk University, semestral course)
 
-**2024 – present:** [Field course of geobotany](https://is.muni.cz/course/sci/jaro2026/BI6661?lang=en) (Masaryk University)
+**2024 – present:** [Field course of geobotany](https://is.muni.cz/course/sci/jaro2026/BI6661?lang=en) (Masaryk University, 5 days)
 
-**2023–2024:** [Data analysis in community ecology](https://is.muni.cz/course/sci/podzim2025/BI7542?lang=en) (Masaryk University)
+**2023–2024:** [Data analysis in community ecology](https://is.muni.cz/course/sci/podzim2025/BI7542?lang=en) (Masaryk University, semestral course)
 
 Co-supervisor of 1 Bachelor's and 1 Master's Thesis
 
 ## International conferences
+
+**Friesová, K.**, Axmanová, I., Borovyk, D., Ćuk, M., Kopčan, B., Valachovič, M., Clark, A. T. & Chytrý, M. (2026). Vegetation remains, specialist species fade: changes in Pannonian sand grasslands \[poster\]. *68th Annual Symposium of the International Association for Vegetation Science*. Gijón, Spain, 21–26 June 2026.
 
 **Klinkovská, K.**, Glaser, M., Klímová, B., Grattarola, F., Danihelka, J., Kaplan, Z., Knollová, I., Novotný, P., Pyšek, P., Řezníčková, M., Wild, J. & Chytrý, M. (2025). Changes in the Czech flora over the last six decades: spatially explicit trends and their causes \[talk\]. *67th Annual Symposium of the International Association for Vegetation Science*. Greeley, Colorado (US), 28 July–3 August 2025.
 
@@ -98,7 +102,7 @@ Co-supervisor of 1 Bachelor's and 1 Master's Thesis
 
 ## National conferences
 
-**Friesová, K.**, Pustková, Š., Hubatka, P., Janišová, N., Nejeschlebová, K., Rohel, J., Sobotka, V., Šmerdová, E., Večeřa, M., Kadaš, D., Kopčan, B., Krejčová, M., Kučerová, A., Axmanová, I., Dřevojan, P., Janišová, M., Nikolei, R., Szokala, D., Stanišić-Vujačić, M., Stešević, D., Danihelka, J. & Chytrý, M. (2025). Druhová bohatost Černé Hory (Species richness of forests in Montenegro) \[talk\]. *Konference České botanické společnosti: Český botanický výzkum v zahraničí (Conference of the Czech Botanical Society: Czech botanical survey abroad)*. Prague, 22–23 November 2025.
+**Friesová, K.**, Pustková, Š., Hubatka, P., Janišová, N., Nejeschlebová, K., Rohel, J., Sobotka, V., Šmerdová, E., Večeřa, M., Kadaš, D., Kopčan, B., Krejčová, M., Kučerová, A., Axmanová, I., Dřevojan, P., Janišová, M., Nikolei, R., Szokala, D., Stanišić-Vujačić, M., Stešević, D., Danihelka, J. & Chytrý, M. (2025). Druhová bohatost lesů Černé Hory závisí na klimatu, půdním pH a korunovém zápoji (Species richness of forests in Montenegro depends on climate, soil pH and canopy cover) \[talk\]. *Konference České botanické společnosti: Český botanický výzkum v zahraničí (Conference of the Czech Botanical Society: Czech botanical survey abroad)*. Prague, 22–23 November 2025.
 
 **Klinkovská, K.**, Sperandii, M. G., Knollová, I., Bruelheide, H., Chytrý, M. & Data contributors (2025). Změny nelesní vegetace České republiky v posledních 50 letech (Changes in non-forest vegetation of the Czech Republic in the last 50 years) \[talk\]. *Konference České botanické společnosti: Dlouhodobé změny vegetace a krajiny (Conference of the Czech Botanical Society: Long-term changes of vegetation and landscape)*. České Budějovice, 23–24 November 2024.
 
@@ -130,7 +134,7 @@ Science Talk – popularisation talk at JCMM (South Moravian Centre for Internat
 
 ## Peer review
 
-Regularly reviewing manuscripts submitted to journals in the disciplines of ecology, biodiversity conservation and vegetation ecology, e.g., Biological Conservation, Journal of Applied Ecology, Applied Vegetation Science
+Regularly reviewing manuscripts submitted to journals in the disciplines of ecology, biodiversity conservation and vegetation ecology, e.g., Biological Conservation, Journal of Applied Ecology, Ecological Informatics, Applied Vegetation Science, Journal of Vegetation Science.
 
 ## Awards
 

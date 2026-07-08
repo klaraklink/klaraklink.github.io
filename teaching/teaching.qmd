@@ -9,7 +9,7 @@ format:
 ---
 
 ::: {.callout-note appearance="simple" icon="false"}
-# 💻 Data Manipulation and visualisation in R (2025 – present)
+# 💻 Data Manipulation and Visualisation in R (2025 – present)
 
 This course is designed for students interested in learning how to effectively manipulate and visualise data using R programming language.
 
@@ -23,7 +23,7 @@ Study materials for this course are available on this website: <https://botzoold
 :::
 
 ::: {.callout-tip appearance="simple" icon="false"}
-# 🌱 Field course of geobotany (2024 – present)
+# 🌱 Field Course of Geobotany (2024 – present)
 
 The Field course of geobotany is an intensive, five-day course held at the field station outside Brno. The main aim is the introduction of basic skills and field methods used in vegetation ecology (recording phytosociological relevés, measuring and estimation of basic stand parameters, soil sampling and chemical analysis, microclimatic measurements, manipulative experiment, vegetation mapping).
 
@@ -33,7 +33,7 @@ For more information about the course, see: <https://is.muni.cz/course/sci/jaro2
 :::
 
 ::: {.callout-note appearance="simple" icon="false"}
-# 📈 Data analysis in community ecology (2023–2024)
+# 📈 Data Analysis in Community Ecology (2023–2024)
 
 The course introduces methods of statistical analysis of data on species composition of plant or animal communities, irrespective of their taxonomic delimitation. The principal course topics include advanced data manipulation techniques, analyses of diversity, ordination methods, and numerical classification. At the end of this course, students should be able to apply the methods discussed in the R environment.
 
