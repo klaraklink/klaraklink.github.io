@@ -135,7 +135,7 @@ leaflet() |>
 
 ![Sand vegetation in the Vienna Basin (Austria, Slovakia, Czech Republic)](images/DSC_0394.jpg){group="fieldwork" description="**Main outcome**: **Friesová, K.**, Axmanová, I., Borovyk, D., Ćuk, M., Kopčan, B., Valachovič, M., Clark, A. T. & Chytrý, M. (2025). *Vegetation remains, specialist species fade: changes in Pannonian sand grasslands.* **Preslia** 97: 613–635.[![Static Badge](https://img.shields.io/badge/DOI-10.23855%2Fpreslia.2025.613-green)] – Data and code: [![DOI](https://zenodo.org/badge/1017296233.svg)]"}
 
-![Forest vegetation of Montenegro](images/IMG_4398.jpg){group="fieldwork"}
+![Forest vegetation of Montenegro](images/IMG_4398.jpg){group="fieldwork" description="**Main outcome**: **Friesová, K.**, Pustková, Š., Hubatka, P., Janišová, N., Nejeschlebová, K., Rohel, J., Sobotka, V., Šmerdová, E., Večeřa, M., Kadaš, D., Kopčan, B., Krejčová, M., Kučerová, A., Axmanová, I., Dřevojan, P., Janišová, M., Nikolei, R., Szokala, D., Stanišić-Vujačić, M., Stešević, D., Danihelka, J. & Chytrý, M. (2026). *Forest herb-layer species richness in the western Balkan diversity hotspot.* **Journal of Vegetation Science** 37: e70167.![Static Badge](https://img.shields.io/badge/DOI-10.1111%2Fjvs.70167-green?link=https%3A%2F%2Fdoi.org%2F10.1111%2Fjvs.701)](https://doi.org/10.1111/jvs.70167) - Data and code: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21453602.svg)](https://doi.org/10.5281/zenodo.21453602)"}
 
 ![Forest vegetation of Serbia](images/PBK05_DSC_0849.jpg){group="\"fieldwork"}
 

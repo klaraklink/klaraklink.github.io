@@ -6,9 +6,13 @@ format:
     code-tools: false
 ---
 
+<!--# https://shields.io/badges -->
+
 ## 2026
 
-Kambach, S., Jandt, U., Acosta, A.T.R., Álvarez-Martínez, J.M., Axmanová, I., Bazzichetto, M., Bergmeier E., Bernhardt-Römmermann, M., Biurrun, I., Bonari, G., Carboni, M., Carlucci, M.B., Carranza, M.L. Cerabolini, B.E.L., Chiarucci, A., Chytrý, M., Damasceno, G., Dengler, J., De Sanctis, M., Divíšek, J., Doležal, J., Dullinger, S., Essl, F., **Friesová, K.** … Bruelheide, H. (2026). *Habitat-specific trends in taxonomic, functional, and phylogenetic diversity in European plant communities over a century.* **Nature Communications** 17: 4208. [![Static Badge](https://img.shields.io/badge/DOI-https%3A%2F%2Fdoi.org%2F10.1038%2Fs41467--026--72112--5-green)](https://doi.org/10.1038/s41467-026-72112-5)
+**Friesová, K.**, Pustková, Š., Hubatka, P., Janišová, N., Nejeschlebová, K., Rohel, J., Sobotka, V., Šmerdová, E., Večeřa, M., Kadaš, D., Kopčan, B., Krejčová, M., Kučerová, A., Axmanová, I., Dřevojan, P., Janišová, M., Nikolei, R., Szokala, D., Stanišić-Vujačić, M., Stešević, D., Danihelka, J. & Chytrý, M. (2026). *Forest herb-layer species richness in the western Balkan diversity hotspot.* **Journal of Vegetation Science** 37: e70167.![Static Badge](https://img.shields.io/badge/DOI-10.1111%2Fjvs.70167-green?link=https%3A%2F%2Fdoi.org%2F10.1111%2Fjvs.701)\](https://doi.org/10.1111/jvs.70167) - Data and code: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21453602.svg)](https://doi.org/10.5281/zenodo.21453602)
+
+Kambach, S., Jandt, U., Acosta, A.T.R., Álvarez-Martínez, J.M., Axmanová, I., Bazzichetto, M., Bergmeier E., Bernhardt-Römmermann, M., Biurrun, I., Bonari, G., Carboni, M., Carlucci, M.B., Carranza, M.L. Cerabolini, B.E.L., Chiarucci, A., Chytrý, M., Damasceno, G., Dengler, J., De Sanctis, M., Divíšek, J., Doležal, J., Dullinger, S., Essl, F., **Friesová, K.** … Bruelheide, H. (2026). *Habitat-specific trends in taxonomic, functional, and phylogenetic diversity in European plant communities over a century.* **Nature Communications** 17: 4208. ![Static Badge](https://img.shields.io/badge/DOI-10.1038%2Fs41467--026--72112--5-green)\](https://doi.org/10.1038/s41467-026-72112-5)
 
 ## 2025
 
