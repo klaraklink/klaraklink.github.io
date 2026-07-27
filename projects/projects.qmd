@@ -10,6 +10,7 @@ listing:
     - MOTIVATE.qmd
     - EVA_FAIR.qmd
     - species_richness_hotspots.qmd
+    - StepNet.qmd
   sort: false
   type: grid
   grid-item-border: false

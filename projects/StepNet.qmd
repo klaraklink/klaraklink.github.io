@@ -1,0 +1,17 @@
+---
+title: "StepNet"
+image: "images/DJI_0026_upr.JPG"
+about: 
+  id: heading
+  template: marquee
+---
+
+StepNet (Steppic grasslands of Southern Moravia – an analysis of current state, development, and resources for ecological restoration) aims to develop new tools and propose procedures that will enable effective protection and wider application of ecological restoration of steppe grasslands in Southern Moravia. These results will be based on comprehensive biodiversity research, combined with an exploration of practical possibilities for ecological restoration.
+
+::: {.callout-tip appearance="simple" icon="false"}
+## My role
+
+My role in this project consists of fieldwork focused on vascular plant diversity of South-Moravian steppe localities and its changes over the recent decades. I will also contribute to the analysis of current state of biodiversity at these localities, recent changes and potential for conservation and restoration. 
+
+:::
+
